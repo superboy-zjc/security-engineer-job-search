@@ -1,5 +1,8 @@
-on: workflow_dispatch
-  
+#on: workflow_dispatch
+on:
+  push:
+  schedule:
+    - cron: "30 * * * *" 
   # sample cron job
   # push:
   # schedule:
