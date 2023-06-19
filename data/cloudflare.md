@@ -34,35 +34,35 @@ Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/4728256
 
 Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258
 
-Security Compliance Specialist - https://boards.greenhouse.io/cloudflare/jobs/5060864?gh_jid=5060864
-
 Security Compliance Specialist - https://boards.greenhouse.io/cloudflare/jobs/5081765?gh_jid=5081765
 
 Security Compliance Specialist - https://boards.greenhouse.io/cloudflare/jobs/5082039?gh_jid=5082039
 
-Security Engineer - Detection and Response - https://boards.greenhouse.io/cloudflare/jobs/5062794?gh_jid=5062794
+Security Compliance Specialist - https://boards.greenhouse.io/cloudflare/jobs/5060864?gh_jid=5060864
 
 Security Engineer - Detection and Response - https://boards.greenhouse.io/cloudflare/jobs/5062796?gh_jid=5062796
 
-Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4802890?gh_jid=4802890
-
-Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4626261?gh_jid=4626261
+Security Engineer - Detection and Response - https://boards.greenhouse.io/cloudflare/jobs/5062794?gh_jid=5062794
 
 Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4626262?gh_jid=4626262
 
-Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4802893?gh_jid=4802893
+Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4626261?gh_jid=4626261
 
 Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4626259?gh_jid=4626259
+
+Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4802893?gh_jid=4802893
+
+Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jobs/4802890?gh_jid=4802890
 
 Security Sales Specialist (SASE/CES) - India (Bangalore/Mumbai/Delhi) - https://boards.greenhouse.io/cloudflare/jobs/4684793?gh_jid=4684793
 
 Security Sales Specialist (SASE/CES) - Korea - https://boards.greenhouse.io/cloudflare/jobs/4684809?gh_jid=4684809
 
-Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
+Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
 
 Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
 
-Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
+Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
 
-Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
+Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
 
