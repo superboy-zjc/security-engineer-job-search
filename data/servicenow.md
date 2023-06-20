@@ -1,3 +1,5 @@
+Staff Application Security Architect - https://jobs.smartrecruiters.com/ServiceNow/743999914036094-staff-application-security-architect
+
 Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNow/743999913570393-staff-security-engineer-devsecops
 
 Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNow/743999913567498-staff-security-engineer-devsecops
@@ -9,8 +11,6 @@ Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNo
 Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNow/743999913568164-staff-security-engineer-devsecops
 
 Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNow/743999913567208-staff-security-engineer-devsecops
-
-Staff Product Security Engineer - https://jobs.smartrecruiters.com/ServiceNow/743999913392663-staff-product-security-engineer
 
 Staff Information Security Engineer - https://jobs.smartrecruiters.com/ServiceNow/743999913047483-staff-information-security-engineer
 
