@@ -1,6 +1,8 @@
-Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5076502?gh_jid=5076502
+Global Security Area Manager - https://boards.greenhouse.io/cruise/jobs/5093029?gh_jid=5093029
 
 Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5102350?gh_jid=5102350
+
+Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5076502?gh_jid=5076502
 
  Senior Security Engineer II, Security Operations - https://boards.greenhouse.io/cruise/jobs/5061073?gh_jid=5061073
 
