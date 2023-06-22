@@ -16,9 +16,9 @@ Senior Security Software Engineer II - https://boards.greenhouse.io/cruise/jobs/
 
 Senior Staff Technical Product Manager, Information Governance and Privacy - https://boards.greenhouse.io/cruise/jobs/5084394?gh_jid=5084394
 
-Staff Security Engineer, Cybersecurity Incident Response - https://boards.greenhouse.io/cruise/jobs/5012168?gh_jid=5012168
-
 Staff Security Engineer, Cybersecurity Incident Response - https://boards.greenhouse.io/cruise/jobs/5008709?gh_jid=5008709
+
+Staff Security Engineer, Cybersecurity Incident Response - https://boards.greenhouse.io/cruise/jobs/5012168?gh_jid=5012168
 
  Staff Security Engineer, Platform Security (Cloud Security) - https://boards.greenhouse.io/cruise/jobs/4896891?gh_jid=4896891
 
