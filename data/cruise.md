@@ -4,6 +4,10 @@ Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse
 
 Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5076502?gh_jid=5076502
 
+Senior Security Compliance Analyst II, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5129755?gh_jid=5129755
+
+Senior Security Compliance Analyst II, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5129837?gh_jid=5129837
+
  Senior Security Engineer II, Security Operations - https://boards.greenhouse.io/cruise/jobs/5061073?gh_jid=5061073
 
 Senior Security Engineer II, Security Operations - https://boards.greenhouse.io/cruise/jobs/5061052?gh_jid=5061052

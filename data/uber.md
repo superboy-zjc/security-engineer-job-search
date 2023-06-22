@@ -8,7 +8,5 @@ Threat Detection Engineer II - https://www.uber.com/global/en/careers/list/12186
 
 Staff  Cyber Intelligence Lead - https://www.uber.com/global/en/careers/list/120972/
 
-Senior Risk Manager - https://www.uber.com/global/en/careers/list/122111/
-
 Senior Staff Risk Lead - https://www.uber.com/global/en/careers/list/123085/
 
