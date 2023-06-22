@@ -18,11 +18,11 @@ Engineering Manager - Privacy Proxies - https://boards.greenhouse.io/cloudflare/
 
 Group Product Manager - API, Area 1 Email Security - https://boards.greenhouse.io/cloudflare/jobs/5087465?gh_jid=5087465
 
-Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/4728259?gh_jid=4728259
-
 Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/4728256?gh_jid=4728256
 
 Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258
+
+Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/4728259?gh_jid=4728259
 
 Network Security Engineer - https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
 
@@ -44,19 +44,19 @@ Security Operations Center Engineer - https://boards.greenhouse.io/cloudflare/jo
 
 Security Sales Specialist (SASE/CES) - India (Bangalore/Mumbai/Delhi) - https://boards.greenhouse.io/cloudflare/jobs/4684793?gh_jid=4684793
 
-Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
+Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
 
 Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
 
+Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
+
 Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
 
-Senior Data Scientist, Web Security - https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
+Senior Security Risk Management Specialist - https://boards.greenhouse.io/cloudflare/jobs/4812490?gh_jid=4812490
 
 Senior Security Risk Management Specialist - https://boards.greenhouse.io/cloudflare/jobs/4812489?gh_jid=4812489
 
 Senior Security Risk Management Specialist - https://boards.greenhouse.io/cloudflare/jobs/4787218?gh_jid=4787218
 
 Senior Security Risk Management Specialist - https://boards.greenhouse.io/cloudflare/jobs/4787217?gh_jid=4787217
-
-Senior Security Risk Management Specialist - https://boards.greenhouse.io/cloudflare/jobs/4812490?gh_jid=4812490
 
