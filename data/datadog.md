@@ -8,9 +8,9 @@ Engineering Manager II - Cloud Security - https://careers.datadoghq.com/detail/5
 
 Manager 1, Engineering - Cloud Security Posture Management - https://careers.datadoghq.com/detail/4874635/?gh_jid=4874635
 
-Privacy Counsel (EMEA) - https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
-
 Privacy Counsel (EMEA) - https://careers.datadoghq.com/detail/5091424/?gh_jid=5091424
+
+Privacy Counsel (EMEA) - https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
 
 Product Designer - Cloud Security Management - https://careers.datadoghq.com/detail/4828205/?gh_jid=4828205
 
@@ -27,8 +27,6 @@ Senior Product Manager, Cloud Security - Threats - https://careers.datadoghq.com
 Senior Security Analyst - Federal Programs - https://careers.datadoghq.com/detail/5067844/?gh_jid=5067844
 
 Senior Security Engineer - Adversary Simulation Operations - https://careers.datadoghq.com/detail/4989056/?gh_jid=4989056
-
-Senior Security Engineer - Threat Detection - https://careers.datadoghq.com/detail/4831006/?gh_jid=4831006
 
 Senior Software Engineer - Cloud Security Platform - https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
 
