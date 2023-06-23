@@ -2,11 +2,11 @@ Enterprise Security Engineer - https://boards.greenhouse.io/aurorainnovation/job
 
 Enterprise Security Engineer - https://boards.greenhouse.io/aurorainnovation/jobs/6693444002
 
-Senior Product Security Engineer - https://boards.greenhouse.io/aurorainnovation/jobs/6380068002
-
 Senior Product Security Engineer - https://boards.greenhouse.io/aurorainnovation/jobs/6616323002
 
 Senior Product Security Engineer - https://boards.greenhouse.io/aurorainnovation/jobs/6616331002
+
+Senior Product Security Engineer - https://boards.greenhouse.io/aurorainnovation/jobs/6380068002
 
 Senior Product Security Engineer - https://boards.greenhouse.io/aurorainnovation/jobs/6616319002
 
