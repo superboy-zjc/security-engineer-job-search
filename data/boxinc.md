@@ -6,3 +6,5 @@ Senior Security Engineer, Application Security - https://boards.greenhouse.io/bo
 
 Senior Software Engineer, Security Projects - https://boards.greenhouse.io/boxinc/jobs/5109103
 
+Software Engineer III, Security Projects - https://boards.greenhouse.io/boxinc/jobs/5109180
+
