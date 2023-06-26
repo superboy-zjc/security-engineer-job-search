@@ -8,9 +8,7 @@ Security Manager II, Trusted Identity & Access Management - https://www.uber.com
 
 Cyber Security Assurance Sr. Analyst - https://www.uber.com/global/en/careers/list/122894/
 
-Threat Detection Engineer II - https://www.uber.com/global/en/careers/list/121860/
-
 Staff  Cyber Intelligence Lead - https://www.uber.com/global/en/careers/list/120972/
 
-Senior Staff Risk Lead - https://www.uber.com/global/en/careers/list/123085/
+Threat Detection Engineer II - https://www.uber.com/global/en/careers/list/121860/
 
