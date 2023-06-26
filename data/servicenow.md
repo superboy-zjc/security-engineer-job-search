@@ -18,13 +18,5 @@ Cyber Security Compliance Analyst - https://jobs.smartrecruiters.com/ServiceNow/
 
 Staff Information Security Engineer - https://jobs.smartrecruiters.com/ServiceNow/743999913284263-staff-information-security-engineer
 
-Corporate Counsel, Data Security - https://jobs.smartrecruiters.com/ServiceNow/743999912711703-corporate-counsel-data-security
-
-Corporate Counsel, Data Security - https://jobs.smartrecruiters.com/ServiceNow/743999912711583-corporate-counsel-data-security
-
-Corporate Counsel, Data Security - https://jobs.smartrecruiters.com/ServiceNow/743999911972923-corporate-counsel-data-security
-
-Corporate Counsel, Data Security - https://jobs.smartrecruiters.com/ServiceNow/743999910362883-corporate-counsel-data-security
-
 Mgr, Solution Consulting- National Security Group - https://jobs.smartrecruiters.com/ServiceNow/743999909638520-mgr-solution-consulting-national-security-group
 
