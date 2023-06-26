@@ -1,5 +1,3 @@
-Staff Software Security Engineer, Infrastructure - https://jobs.smartrecruiters.com/Square/743999913583703-staff-software-security-engineer-infrastructure
-
 Software Engineer, Cloud Security Risk and Insights - https://jobs.smartrecruiters.com/Square/743999913580177-software-engineer-cloud-security-risk-and-insights
 
 Software Security Engineer, SecEngOps - https://jobs.smartrecruiters.com/Square/743999913583183-software-security-engineer-secengops
