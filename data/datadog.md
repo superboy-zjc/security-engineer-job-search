@@ -16,9 +16,9 @@ Product Designer - Cloud Security Management - https://careers.datadoghq.com/det
 
 Security Engineer - Software Integrity and Trust - https://careers.datadoghq.com/detail/5088379/?gh_jid=5088379
 
-Security Software Engineer - https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
-
 Security Software Engineer - https://careers.datadoghq.com/detail/4857417/?gh_jid=4857417
+
+Security Software Engineer - https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
 
 Security Software Engineer - https://careers.datadoghq.com/detail/4857413/?gh_jid=4857413
 
