@@ -10,6 +10,8 @@ Principal, International Security GRC Analyst - https://www.coinbase.com/careers
 
 Security Technical Program Manager II - https://www.coinbase.com/careers/3998184?gh_jid=3998184
 
+Senior Security Analyst, Coinbase Institutional - https://www.coinbase.com/careers/5056673?gh_jid=5056673
+
 Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
 
 Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023599?gh_jid=5023599
