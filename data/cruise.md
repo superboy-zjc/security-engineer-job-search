@@ -1,5 +1,3 @@
-Global Security Area Manager - https://boards.greenhouse.io/cruise/jobs/5093029?gh_jid=5093029
-
 Security Engineer, Security Operations - https://boards.greenhouse.io/cruise/jobs/5136739?gh_jid=5136739
 
 Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5076502?gh_jid=5076502
