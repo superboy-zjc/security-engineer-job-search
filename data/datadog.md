@@ -1,16 +1,16 @@
 Director, Engineering - Production Security - https://careers.datadoghq.com/detail/4750104/?gh_jid=4750104
 
-Engineering Manager I, Core Security Response - https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
-
 Engineering Manager I, Core Security Response - https://careers.datadoghq.com/detail/5080553/?gh_jid=5080553
+
+Engineering Manager I, Core Security Response - https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
 
 Engineering Manager II - Cloud Security - https://careers.datadoghq.com/detail/5112227/?gh_jid=5112227
 
 Manager 1, Engineering - Cloud Security Posture Management - https://careers.datadoghq.com/detail/4874635/?gh_jid=4874635
 
-Privacy Counsel (EMEA) - https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
-
 Privacy Counsel (EMEA) - https://careers.datadoghq.com/detail/5091424/?gh_jid=5091424
+
+Privacy Counsel (EMEA) - https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
 
 Product Designer - Cloud Security Management - https://careers.datadoghq.com/detail/4828205/?gh_jid=4828205
 
