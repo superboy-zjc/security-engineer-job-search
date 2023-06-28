@@ -1,6 +1,6 @@
-Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5102350?gh_jid=5102350
-
 Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5076502?gh_jid=5076502
+
+Senior Cybersecurity Risk Analyst, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5102350?gh_jid=5102350
 
 Senior Security Compliance Analyst II, Trust & Assurance - https://boards.greenhouse.io/cruise/jobs/5129837?gh_jid=5129837
 
@@ -12,9 +12,9 @@ Senior Security Software Engineer - https://boards.greenhouse.io/cruise/jobs/487
 
 Senior Security Software Engineer II - https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
 
-Senior Security Software Engineer II, Data Subject Rights and Data Tagging - https://boards.greenhouse.io/cruise/jobs/5137695?gh_jid=5137695
-
 Senior Security Software Engineer II, Data Subject Rights and Data Tagging - https://boards.greenhouse.io/cruise/jobs/5136689?gh_jid=5136689
+
+Senior Security Software Engineer II, Data Subject Rights and Data Tagging - https://boards.greenhouse.io/cruise/jobs/5137695?gh_jid=5137695
 
 Senior Staff Technical Product Manager, Information Governance and Privacy - https://boards.greenhouse.io/cruise/jobs/5084394?gh_jid=5084394
 
