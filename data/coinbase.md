@@ -1,8 +1,8 @@
 Application Security Engineer - https://www.coinbase.com/careers/3849370?gh_jid=3849370
 
-Blockchain Security Manager - https://www.coinbase.com/careers/5010792?gh_jid=5010792
-
 Blockchain Security Manager - https://www.coinbase.com/careers/5010790?gh_jid=5010790
+
+Blockchain Security Manager - https://www.coinbase.com/careers/5010792?gh_jid=5010792
 
 Lead, Security Policy - https://www.coinbase.com/careers/5085974?gh_jid=5085974
 
@@ -12,7 +12,7 @@ Security Technical Program Manager II - https://www.coinbase.com/careers/3998184
 
 Senior Security Analyst, Coinbase Institutional - https://www.coinbase.com/careers/5056673?gh_jid=5056673
 
-Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
-
 Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023599?gh_jid=5023599
+
+Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
 
