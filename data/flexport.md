@@ -6,6 +6,8 @@ Manager, Security Detection and Response - https://boards.greenhouse.io/flexport
 
  Principal Technical Program Manager, Security - https://boards.greenhouse.io/flexport/jobs/5091940
 
+Security Compliance Analyst - Risk - https://boards.greenhouse.io/flexport/jobs/5105817
+
 Security Compliance Manager - https://boards.greenhouse.io/flexport/jobs/4812660
 
 Senior Product Security Engineer - https://boards.greenhouse.io/flexport/jobs/5045296
