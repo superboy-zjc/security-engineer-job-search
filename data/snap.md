@@ -1,8 +1,8 @@
 Residential Security Officer - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Residential-Security-Officer_R0025635
 
-Security Engineer, Offensive Security Team - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031851
+Security Engineer,  Detection and Response - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Security-Engineer---Detection-and-Response_R0031836
 
-Security Engineer, Offensive Security Team - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031852
+Security Engineer, Offensive Security Team - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031851
 
 Security Engineer, Offensive Security Team - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031861-1
 
