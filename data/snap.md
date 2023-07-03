@@ -1,12 +1,14 @@
 Residential Security Officer - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Residential-Security-Officer_R0025635
 
-Security Engineer,  Detection and Response - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Security-Engineer---Detection-and-Response_R0031836
+Security Engineer,  Detection and Response, 11+ Years of Experience - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Security-Engineer---Detection-and-Response_R0031836
 
-Security Engineer, Offensive Security Team - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031851
+Security Engineer, Detection and Response, 1+ Years of Experience - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Detection-and-Response--1--Years-of-Experience_R0031863
 
-Security Engineer, Offensive Security Team - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031861-1
+Security Engineer, Offensive Security Team, 1+ Years of Experience - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031851
 
-Security Engineer, Detection and Response - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Santa-Monica---2772-Donald-Douglas-Loop-N/Security-Engineer--Detection-and-Response_R0031835
+Security Engineer, Offensive Security Team, 3+ Years of Experience - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031852
+
+Security Engineer, Detection and Response, 3+ Years of Experience - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Santa-Monica---2772-Donald-Douglas-Loop-N/Security-Engineer--Detection-and-Response_R0031835
 
 Security Engineer, Detection and Response Threat Intelligence - https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Zurich---Switzerland/Security-Engineer_R0031817
 
