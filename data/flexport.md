@@ -2,8 +2,6 @@ Architect, Cloud Security - https://boards.greenhouse.io/flexport/jobs/5050846
 
 Enterprise Security Engineer - https://boards.greenhouse.io/flexport/jobs/5105823
 
-Manager, Security Detection and Response - https://boards.greenhouse.io/flexport/jobs/5045141
-
  Principal Technical Program Manager, Security - https://boards.greenhouse.io/flexport/jobs/5091940
 
 Security Compliance Analyst - Risk - https://boards.greenhouse.io/flexport/jobs/5105817
