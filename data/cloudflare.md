@@ -22,7 +22,7 @@ Legal Counsel, Privacy - https://boards.greenhouse.io/cloudflare/jobs/5143144?gh
 
 Product Operations Manager - Security Standards and Solutions - https://boards.greenhouse.io/cloudflare/jobs/5139614?gh_jid=5139614
 
-Security Compliance Specialist - https://boards.greenhouse.io/cloudflare/jobs/5081765?gh_jid=5081765
+Security Compliance Specialist (IRAP) - https://boards.greenhouse.io/cloudflare/jobs/5081765?gh_jid=5081765
 
 Security Engineer - Detection and Response - https://boards.greenhouse.io/cloudflare/jobs/5062794?gh_jid=5062794
 
