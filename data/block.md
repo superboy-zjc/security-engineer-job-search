@@ -1,5 +1,3 @@
-Corporate Security Engineer - https://jobs.smartrecruiters.com/Square/743999916542503-corporate-security-engineer
-
 Staff Security Engineer - https://jobs.smartrecruiters.com/Square/743999916512243-staff-security-engineer
 
 Software Engineer, Product Security - https://jobs.smartrecruiters.com/Square/743999916505618-software-engineer-product-security
