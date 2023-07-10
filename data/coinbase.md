@@ -16,7 +16,7 @@ Staff Security Engineer, Protocol Security - https://www.coinbase.com/careers/51
 
 Staff Security Engineer, Protocol Security - https://www.coinbase.com/careers/5148045?gh_jid=5148045
 
-Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
-
 Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023599?gh_jid=5023599
+
+Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
 
