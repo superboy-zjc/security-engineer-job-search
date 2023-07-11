@@ -16,9 +16,9 @@ Engineering Manager - Privacy Proxies - https://boards.greenhouse.io/cloudflare/
 
 Group Product Manager - API, Area 1 Email Security - https://boards.greenhouse.io/cloudflare/jobs/5087465?gh_jid=5087465
 
-Legal Counsel, Privacy - https://boards.greenhouse.io/cloudflare/jobs/5143144?gh_jid=5143144
-
 Legal Counsel, Privacy - https://boards.greenhouse.io/cloudflare/jobs/5143169?gh_jid=5143169
+
+Legal Counsel, Privacy - https://boards.greenhouse.io/cloudflare/jobs/5143144?gh_jid=5143144
 
 Product Operations Manager - Security Standards and Solutions - https://boards.greenhouse.io/cloudflare/jobs/5139614?gh_jid=5139614
 
