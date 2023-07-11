@@ -12,3 +12,5 @@ Staff  Cyber Intelligence Lead - https://www.uber.com/global/en/careers/list/120
 
 Senior Staff Risk Lead - https://www.uber.com/global/en/careers/list/123085/
 
+Sr Software Engineer - PKI - https://www.uber.com/global/en/careers/list/121027/
+
