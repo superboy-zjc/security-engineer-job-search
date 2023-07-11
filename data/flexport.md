@@ -6,9 +6,9 @@ Security Compliance Analyst - Risk - https://boards.greenhouse.io/flexport/jobs/
 
 Security Compliance Analyst - Vendor Security - https://boards.greenhouse.io/flexport/jobs/5105821
 
-Security Compliance Manager - https://boards.greenhouse.io/flexport/jobs/5161670
-
 Security Compliance Manager - https://boards.greenhouse.io/flexport/jobs/4812660
+
+Security Compliance Manager - https://boards.greenhouse.io/flexport/jobs/5161670
 
 Senior Product Security Engineer - https://boards.greenhouse.io/flexport/jobs/5045296
 
