@@ -2,9 +2,9 @@ Architect, Cloud Security - https://boards.greenhouse.io/flexport/jobs/5050846
 
 Enterprise Security Engineer - https://boards.greenhouse.io/flexport/jobs/5105823
 
-Security Compliance Manager - https://boards.greenhouse.io/flexport/jobs/5161670
-
 Security Compliance Manager - https://boards.greenhouse.io/flexport/jobs/4812660
+
+Security Compliance Manager - https://boards.greenhouse.io/flexport/jobs/5161670
 
 Senior Product Security Engineer - https://boards.greenhouse.io/flexport/jobs/5045296
 
