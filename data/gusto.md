@@ -2,5 +2,5 @@ Product Security Software Engineer - https://boards.greenhouse.io/gusto/jobs/502
 
 Security Engineer, Corporate Security Engineering (DETH) - https://boards.greenhouse.io/gusto/jobs/5024661
 
-Senior Software Engineer, Security - https://boards.greenhouse.io/gusto/jobs/5024761
+Software Engineer, Security - https://boards.greenhouse.io/gusto/jobs/5024761
 

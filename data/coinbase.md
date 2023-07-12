@@ -18,9 +18,9 @@ Senior Software Engineer, Security Engineering - https://www.coinbase.com/career
 
 Senior System Security Engineer - https://www.coinbase.com/careers/3680275?gh_jid=3680275
 
-Staff Security Engineer, Protocol Security - https://www.coinbase.com/careers/5148039?gh_jid=5148039
-
 Staff Security Engineer, Protocol Security - https://www.coinbase.com/careers/5148045?gh_jid=5148045
+
+Staff Security Engineer, Protocol Security - https://www.coinbase.com/careers/5148039?gh_jid=5148039
 
 Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
 
