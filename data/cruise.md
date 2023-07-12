@@ -1,5 +1,3 @@
-Global Security Area Manager - https://boards.greenhouse.io/cruise/jobs/5093029?gh_jid=5093029
-
 Senior Business Analyst, Strategy and Operations - Security & IT - https://boards.greenhouse.io/cruise/jobs/5142511?gh_jid=5142511
 
 Senior Privacy Engineer II - https://boards.greenhouse.io/cruise/jobs/5139105?gh_jid=5139105
