@@ -4,6 +4,8 @@ Security Engineer, Offensive Security  - https://stripe.com/jobs/search?gh_jid=4
 
 Security Engineer, Security Partnerships - https://stripe.com/jobs/search?gh_jid=5130441
 
+Security Investigations Analyst - https://stripe.com/jobs/search?gh_jid=5141121
+
 Staff Engineer, Offensive Security - https://stripe.com/jobs/search?gh_jid=5110153
 
 Stripe Privacy Fellowship 2023 - https://stripe.com/jobs/search?gh_jid=5118185
