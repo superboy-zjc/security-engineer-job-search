@@ -12,9 +12,9 @@ Security Technical Program Manager II - https://www.coinbase.com/careers/3998184
 
 Senior Security Analyst, Coinbase Institutional - https://www.coinbase.com/careers/5056673?gh_jid=5056673
 
-Senior Software Engineer, Security Engineering - https://www.coinbase.com/careers/5164577?gh_jid=5164577
-
 Senior Software Engineer, Security Engineering - https://www.coinbase.com/careers/5164579?gh_jid=5164579
+
+Senior Software Engineer, Security Engineering - https://www.coinbase.com/careers/5164577?gh_jid=5164577
 
 Senior System Security Engineer - https://www.coinbase.com/careers/3680275?gh_jid=3680275
 
@@ -22,7 +22,7 @@ Staff Security Engineer, Protocol Security - https://www.coinbase.com/careers/51
 
 Staff Security Engineer, Protocol Security - https://www.coinbase.com/careers/5148039?gh_jid=5148039
 
-Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
-
 Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023599?gh_jid=5023599
+
+Staff Software Engineer, Privacy Engineering - https://www.coinbase.com/careers/5023601?gh_jid=5023601
 

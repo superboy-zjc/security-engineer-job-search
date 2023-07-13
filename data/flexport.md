@@ -16,8 +16,6 @@ Senior Security Compliance Specialist - https://boards.greenhouse.io/flexport/jo
 
 Senior Software Engineer, Security - https://boards.greenhouse.io/flexport/jobs/5085428
 
-Software Engineer II, Security - https://boards.greenhouse.io/flexport/jobs/5085466
-
 Sr. Security Engineer, Cloud  - https://boards.greenhouse.io/flexport/jobs/5027953
 
 Staff Application Security Engineer - https://boards.greenhouse.io/flexport/jobs/5045042
