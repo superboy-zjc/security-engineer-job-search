@@ -1,3 +1,11 @@
+Staff Security Detection Engineer - SPLUNK - https://jobs.smartrecruiters.com/ServiceNow/743999918560088-staff-security-detection-engineer-splunk
+
+Staff Security Detection Engineer - SPLUNK - https://jobs.smartrecruiters.com/ServiceNow/743999918562123-staff-security-detection-engineer-splunk
+
+Staff Security Detection Engineer - SPLUNK - https://jobs.smartrecruiters.com/ServiceNow/743999918562063-staff-security-detection-engineer-splunk
+
+Staff Security Detection Engineer - SPLUNK - https://jobs.smartrecruiters.com/ServiceNow/743999918561983-staff-security-detection-engineer-splunk
+
 Security Governance Manager - https://jobs.smartrecruiters.com/ServiceNow/743999918305493-security-governance-manager
 
 Security Governance Manager - https://jobs.smartrecruiters.com/ServiceNow/743999918303069-security-governance-manager
@@ -7,14 +15,6 @@ Security Governance Manager - https://jobs.smartrecruiters.com/ServiceNow/743999
 Security Governance Manager - https://jobs.smartrecruiters.com/ServiceNow/743999918303745-security-governance-manager
 
 Cyber Security Compliance Analyst - https://jobs.smartrecruiters.com/ServiceNow/743999917341045-cyber-security-compliance-analyst
-
-Cyber Security Compliance Analyst - https://jobs.smartrecruiters.com/ServiceNow/743999917340223-cyber-security-compliance-analyst
-
-Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNow/743999913570393-staff-security-engineer-devsecops
-
-Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNow/743999913567498-staff-security-engineer-devsecops
-
-Staff Security Engineer - DevSecOps - https://jobs.smartrecruiters.com/ServiceNow/743999913568883-staff-security-engineer-devsecops
 
 Corporate Counsel, Data Security - https://jobs.smartrecruiters.com/ServiceNow/743999915205506-corporate-counsel-data-security
 
