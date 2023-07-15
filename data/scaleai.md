@@ -1,4 +1,4 @@
-Privacy & Regulatory Program Manager - https://boards.greenhouse.io/scaleai/jobs/4287807005
+UNIQ - UNIQ
 
-Security Compliance Engineer - https://boards.greenhouse.io/scaleai/jobs/4290581005
+UNIQ - UNIQ
 

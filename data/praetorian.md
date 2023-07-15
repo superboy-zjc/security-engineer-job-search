@@ -1,4 +1,4 @@
-Practice Manager, Product Security  - https://www.praetorian.com/company/careers/career-detail/?gh_jid=5611728003
+UNIQ - UNIQ
 
-Praetorian's Talent Community - Cybersecurity - https://www.praetorian.com/company/careers/career-detail/?gh_jid=5618824003
+UNIQ - UNIQ
 
