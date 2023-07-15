@@ -38,7 +38,7 @@ def pinterest():
         job_title = clean_html(result['summary']['job_title_snippet'])
         job_url = result['job']['url']
         
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+        text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
         f.write(text_to_write)
         print(text_to_write)
 
@@ -62,7 +62,7 @@ def snap():
             job_title = job['title']
             job_url = job['absolute_url']
             
-            text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+            text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
             f.write(text_to_write)
             print(text_to_write)
 
@@ -87,7 +87,7 @@ def block():
         job_title = data.find('h4').contents[0]
         job_url = data.find('a')['href']
         
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+        text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
         f.write(text_to_write)
         print(text_to_write)
 
@@ -110,7 +110,7 @@ def twitter():
         job_title = job['title']
         job_url = job['url']
         
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+        text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
         f.write(text_to_write)
         print(text_to_write)
 
@@ -195,7 +195,7 @@ def uber():
         job_title = job['title']
         job_url = JOB_URL.format(job['id'])
         
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+        text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
         f.write(text_to_write)
         print(text_to_write)
 
@@ -220,7 +220,7 @@ def servicenow():
         job_title = data.find('h4').contents[0]
         job_url = data.find('a')['href']
         
-        text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+        text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
         f.write(text_to_write)
         print(text_to_write)
 
@@ -246,7 +246,7 @@ def spotify():
             job_title = job['text']
             job_url = LISTING_URL.format(job['id'])
             
-            text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+            text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
             f.write(text_to_write)
             print(text_to_write)
 
@@ -273,7 +273,7 @@ def lever(company):
             job_title = data.find('h5').contents[0]
             job_url = data.find('a')['href']
 
-            text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+            text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
             f.write(text_to_write)
             print(text_to_write)
 
@@ -298,7 +298,7 @@ def greenhouse(company):
             job_title = job['title']
             job_url = job['absolute_url']
             
-            text_to_write = '{} - {}\n\n'.format(job_title, job_url)
+            text_to_write = 'UNIQ - UNIQ\n\n'.format(job_title, job_url)
             f.write(text_to_write)
             print(text_to_write)
 
