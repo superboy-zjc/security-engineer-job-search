@@ -1,4 +1,4 @@
-UNIQ - UNIQ
+Practice Manager, Product Security  UNIQ https://www.praetorian.com/company/careers/career-detail/?gh_jid=5611728003
 
-UNIQ - UNIQ
+Praetorian's Talent Community - Cybersecurity UNIQ https://www.praetorian.com/company/careers/career-detail/?gh_jid=5618824003
 

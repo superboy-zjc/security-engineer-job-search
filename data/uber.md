@@ -1,16 +1,16 @@
-UNIQ - UNIQ
+Senior Security Engineer - Cloud Security UNIQ https://www.uber.com/global/en/careers/list/122501/
 
-UNIQ - UNIQ
+Security Engineer II - Cloud Security UNIQ https://www.uber.com/global/en/careers/list/122497/
 
-UNIQ - UNIQ
+Manager II, Cloud Security Engineering UNIQ https://www.uber.com/global/en/careers/list/122783/
 
-UNIQ - UNIQ
+Lead Cyber Security Assurance Analyst UNIQ https://www.uber.com/global/en/careers/list/122894/
 
-UNIQ - UNIQ
+Staff Security Engineer, Trusted Identity UNIQ https://www.uber.com/global/en/careers/list/123142/
 
-UNIQ - UNIQ
+Staff  Cyber Intelligence Lead UNIQ https://www.uber.com/global/en/careers/list/120972/
 
-UNIQ - UNIQ
+Senior Staff Risk Lead UNIQ https://www.uber.com/global/en/careers/list/123085/
 
-UNIQ - UNIQ
+Sr Software Engineer - PKI UNIQ https://www.uber.com/global/en/careers/list/121027/
 
