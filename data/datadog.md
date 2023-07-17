@@ -10,9 +10,9 @@ Enterprise IT Security Engineer UNIQ https://careers.datadoghq.com/detail/514023
 
 Manager 1, Engineering - Cloud Security Posture Management UNIQ https://careers.datadoghq.com/detail/4874635/?gh_jid=4874635
 
-Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5091424/?gh_jid=5091424
-
 Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
+
+Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5091424/?gh_jid=5091424
 
 Product Designer - Cloud Security Management UNIQ https://careers.datadoghq.com/detail/4828205/?gh_jid=4828205
 
