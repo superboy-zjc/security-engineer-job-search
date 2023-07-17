@@ -10,9 +10,9 @@ Senior Product Security Engineer UNIQ https://boards.greenhouse.io/flexport/jobs
 
 Senior Security Compliance Manager - Public Sector UNIQ https://boards.greenhouse.io/flexport/jobs/5080850
 
-Senior Security Compliance Specialist UNIQ https://boards.greenhouse.io/flexport/jobs/5161671
-
 Senior Security Compliance Specialist UNIQ https://boards.greenhouse.io/flexport/jobs/4983402
+
+Senior Security Compliance Specialist UNIQ https://boards.greenhouse.io/flexport/jobs/5161671
 
 Senior Software Engineer, Security UNIQ https://boards.greenhouse.io/flexport/jobs/5085428
 
