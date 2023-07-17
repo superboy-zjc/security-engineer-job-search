@@ -1,3 +1,5 @@
+Security Compliance Manager UNIQ https://jobs.smartrecruiters.com/Square/743999919068323-security-compliance-manager
+
 Application Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999918777433-application-security-engineer
 
 Software Engineer, Cloud Security Risk and Insights UNIQ https://jobs.smartrecruiters.com/Square/743999918499656-software-engineer-cloud-security-risk-and-insights
