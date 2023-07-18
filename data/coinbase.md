@@ -20,7 +20,7 @@ Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers
 
 Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148039?gh_jid=5148039
 
-Staff Software Engineer, Privacy Engineering UNIQ https://www.coinbase.com/careers/5023601?gh_jid=5023601
-
 Staff Software Engineer, Privacy Engineering UNIQ https://www.coinbase.com/careers/5023599?gh_jid=5023599
+
+Staff Software Engineer, Privacy Engineering UNIQ https://www.coinbase.com/careers/5023601?gh_jid=5023601
 
