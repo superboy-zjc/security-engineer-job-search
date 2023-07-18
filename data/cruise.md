@@ -1,8 +1,8 @@
 Senior Business Analyst, Strategy and Operations - Security & IT UNIQ https://boards.greenhouse.io/cruise/jobs/5142511?gh_jid=5142511
 
-Senior Cybersecurity Risk Analyst, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5076502?gh_jid=5076502
-
 Senior Cybersecurity Risk Analyst, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5102350?gh_jid=5102350
+
+Senior Cybersecurity Risk Analyst, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5076502?gh_jid=5076502
 
 Senior Privacy Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/5139105?gh_jid=5139105
 
