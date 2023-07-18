@@ -1,3 +1,5 @@
+Staff Security Architect UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999919198413-staff-security-architect
+
 Staff Security Incident Commander UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999919033843-staff-security-incident-commander
 
 Staff Security Incident Commander UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999919033813-staff-security-incident-commander
@@ -13,8 +15,6 @@ Staff Security Incident Commander UNIQ https://jobs.smartrecruiters.com/ServiceN
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918560088-staff-security-detection-engineer-splunk
 
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562123-staff-security-detection-engineer-splunk
-
-Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562063-staff-security-detection-engineer-splunk
 
 Corporate Counsel, Data Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999915205506-corporate-counsel-data-security
 
