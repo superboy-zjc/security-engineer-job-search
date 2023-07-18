@@ -2,9 +2,9 @@ Architect, Cloud Security UNIQ https://boards.greenhouse.io/flexport/jobs/505084
 
 Enterprise Security Engineer UNIQ https://boards.greenhouse.io/flexport/jobs/5105823
 
-Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/5161670
-
 Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/4812660
+
+Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/5161670
 
 Senior Product Security Engineer UNIQ https://boards.greenhouse.io/flexport/jobs/5045296
 
