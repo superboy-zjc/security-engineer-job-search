@@ -1,5 +1,7 @@
 Chief Information Security Officer (CISO) - Crypto UNIQ https://boards.greenhouse.io/robinhood/jobs/5050214?t=gh_src=&gh_jid=5050214
 
+Engineering Manager, Privacy Engineering UNIQ https://boards.greenhouse.io/robinhood/jobs/5181119?t=gh_src=&gh_jid=5181119
+
 Security Engineer - Security Solutions and Assessments UNIQ https://boards.greenhouse.io/robinhood/jobs/5173852?t=gh_src=&gh_jid=5173852
 
 Senior Blockchain Security Engineer UNIQ https://boards.greenhouse.io/robinhood/jobs/5173850?t=gh_src=&gh_jid=5173850
