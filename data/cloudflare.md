@@ -1,16 +1,16 @@
 Chief of Staff, Security Team UNIQ https://boards.greenhouse.io/cloudflare/jobs/5188148?gh_jid=5188148
 
-Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4991240?gh_jid=4991240
-
-Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4974196?gh_jid=4974196
-
 Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4999832?gh_jid=4999832
-
-Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4999820?gh_jid=4999820
 
 Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4999818?gh_jid=4999818
 
+Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4999820?gh_jid=4999820
+
 Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4999814?gh_jid=4999814
+
+Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4991240?gh_jid=4991240
+
+Engineering Manager - Privacy Proxies UNIQ https://boards.greenhouse.io/cloudflare/jobs/4974196?gh_jid=4974196
 
 Group Product Manager - API, Area 1 Email Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5087465?gh_jid=5087465
 
@@ -49,6 +49,8 @@ Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
+
+Software Engineer - Cloud Access Security Broker (CASB) UNIQ https://boards.greenhouse.io/cloudflare/jobs/5187473?gh_jid=5187473
 
 Technical Program Manager, Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5154051?gh_jid=5154051
 
