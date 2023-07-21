@@ -16,9 +16,9 @@ Senior Security Analyst, Coinbase Institutional UNIQ https://www.coinbase.com/ca
 
 Senior System Security Engineer UNIQ https://www.coinbase.com/careers/3680275?gh_jid=3680275
 
-Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148039?gh_jid=5148039
-
 Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148045?gh_jid=5148045
+
+Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148039?gh_jid=5148039
 
 Staff Software Engineer, Privacy Engineering UNIQ https://www.coinbase.com/careers/5023601?gh_jid=5023601
 
