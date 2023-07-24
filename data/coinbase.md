@@ -2,9 +2,9 @@ Application Security Engineer UNIQ https://www.coinbase.com/careers/3849370?gh_j
 
 Application Security Engineer UNIQ https://www.coinbase.com/careers/5190579?gh_jid=5190579
 
-Blockchain Security Manager UNIQ https://www.coinbase.com/careers/5010792?gh_jid=5010792
-
 Blockchain Security Manager UNIQ https://www.coinbase.com/careers/5010790?gh_jid=5010790
+
+Blockchain Security Manager UNIQ https://www.coinbase.com/careers/5010792?gh_jid=5010792
 
 Lead, Security Policy UNIQ https://www.coinbase.com/careers/5085974?gh_jid=5085974
 
