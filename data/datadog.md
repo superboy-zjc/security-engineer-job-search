@@ -1,8 +1,8 @@
 Director, Engineering - Production Security UNIQ https://careers.datadoghq.com/detail/4750104/?gh_jid=4750104
 
-Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
-
 Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080553/?gh_jid=5080553
+
+Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
 
 Engineering Manager II - Cloud Security UNIQ https://careers.datadoghq.com/detail/5112227/?gh_jid=5112227
 
