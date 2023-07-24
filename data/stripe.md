@@ -1,7 +1,5 @@
 Program Manager, Security Risk Management UNIQ https://stripe.com/jobs/search?gh_jid=4960255
 
-Security Engineer, Offensive Security  UNIQ https://stripe.com/jobs/search?gh_jid=4926080
-
 Security Engineer, Security Partnerships UNIQ https://stripe.com/jobs/search?gh_jid=5130441
 
 Security Investigations Analyst UNIQ https://stripe.com/jobs/search?gh_jid=5141121
