@@ -18,7 +18,5 @@ Staff Security Incident Commander UNIQ https://jobs.smartrecruiters.com/ServiceN
 
 Senior Regional Security Manager, APJ UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999919374283-senior-regional-security-manager-apj
 
-Corporate Counsel, Data Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999915205506-corporate-counsel-data-security
-
 Mgr, Solution Consulting- National Security Group UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999909638520-mgr-solution-consulting-national-security-group
 
