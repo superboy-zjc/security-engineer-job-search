@@ -1,10 +1,6 @@
 Senior Privacy Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/5139105?gh_jid=5139105
 
- Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4883089?gh_jid=4883089
-
 Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
-
-Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4879805?gh_jid=4879805
 
 Senior Security Software Engineer II, Data Subject Rights and Data Tagging UNIQ https://boards.greenhouse.io/cruise/jobs/5136689?gh_jid=5136689
 
