@@ -4,7 +4,5 @@ Security Engineer, Security Partnerships UNIQ https://stripe.com/jobs/search?gh_
 
 Security Investigations Analyst UNIQ https://stripe.com/jobs/search?gh_jid=5141121
 
-Staff Engineer, Offensive Security UNIQ https://stripe.com/jobs/search?gh_jid=5110153
-
 Stripe Privacy Fellowship 2023 UNIQ https://stripe.com/jobs/search?gh_jid=5118185
 
