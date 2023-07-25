@@ -1,3 +1,5 @@
+Security Compliance Manager UNIQ https://jobs.smartrecruiters.com/Square/743999920429784-security-compliance-manager
+
 Security Compliance Manager UNIQ https://jobs.smartrecruiters.com/Square/743999919068323-security-compliance-manager
 
 Application Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999918777433-application-security-engineer
