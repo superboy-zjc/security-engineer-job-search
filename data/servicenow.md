@@ -6,8 +6,6 @@ Lead Incident Response Analyst - CyberSecurity UNIQ https://jobs.smartrecruiters
 
 Lead Incident Response Analyst - CyberSecurity UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920430823-lead-incident-response-analyst-cybersecurity
 
-Staff Security Architect UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999919198413-staff-security-architect
-
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918560088-staff-security-detection-engineer-splunk
 
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562123-staff-security-detection-engineer-splunk
@@ -15,6 +13,8 @@ Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562063-staff-security-detection-engineer-splunk
 
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918561983-staff-security-detection-engineer-splunk
+
+Cyber Security Compliance Analyst UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999917341045-cyber-security-compliance-analyst
 
 Corporate Counsel, Data Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920378038-corporate-counsel-data-security
 
