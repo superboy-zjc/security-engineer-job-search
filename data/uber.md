@@ -6,8 +6,6 @@ Security Manager II, Trusted Identity & Access Management UNIQ https://www.uber.
 
 Staff Security Engineer, Trusted Identity UNIQ https://www.uber.com/global/en/careers/list/123142/
 
-Staff  Cyber Intelligence Lead UNIQ https://www.uber.com/global/en/careers/list/120972/
-
 Senior Staff Risk Lead UNIQ https://www.uber.com/global/en/careers/list/123085/
 
 Lead Cybersecurity Assurance Analyst UNIQ https://www.uber.com/global/en/careers/list/122894/
