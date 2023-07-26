@@ -1,5 +1,3 @@
-Residential Security Officer UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Residential-Security-Officer_R0025635
-
 Security Engineer,  Detection and Response, 11+ Years of Experience UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Security-Engineer---Detection-and-Response_R0031836
 
 Security Engineer, Offensive Security Team, 1+ Years of Experience UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Palo-Alto-California/Security-Engineer--Offensive-Security-Team_R0031851
