@@ -1,3 +1,5 @@
+Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921155974-staff-security-engineer-devsecops
+
 Lead Incident Response Analyst - CyberSecurity UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920430828-lead-incident-response-analyst-cybersecurity
 
 Lead Incident Response Analyst - CyberSecurity UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920430973-lead-incident-response-analyst-cybersecurity
@@ -13,8 +15,6 @@ Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562063-staff-security-detection-engineer-splunk
 
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918561983-staff-security-detection-engineer-splunk
-
-Cyber Security Compliance Analyst UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999917341045-cyber-security-compliance-analyst
 
 Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
 
