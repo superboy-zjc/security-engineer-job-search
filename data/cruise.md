@@ -6,9 +6,9 @@ Global Security Area Manager UNIQ https://boards.greenhouse.io/cruise/jobs/51299
 
 Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
 
-Senior Security Software Engineer II, Data Subject Rights and Data Tagging UNIQ https://boards.greenhouse.io/cruise/jobs/5137695?gh_jid=5137695
-
 Senior Security Software Engineer II, Data Subject Rights and Data Tagging UNIQ https://boards.greenhouse.io/cruise/jobs/5136689?gh_jid=5136689
+
+Senior Security Software Engineer II, Data Subject Rights and Data Tagging UNIQ https://boards.greenhouse.io/cruise/jobs/5137695?gh_jid=5137695
 
 Senior Staff Technical Product Manager, Information Governance and Privacy UNIQ https://boards.greenhouse.io/cruise/jobs/5084394?gh_jid=5084394
 
