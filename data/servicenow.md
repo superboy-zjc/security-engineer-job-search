@@ -18,5 +18,3 @@ Lead Incident Response Analyst - CyberSecurity UNIQ https://jobs.smartrecruiters
 
 Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
 
-Mgr, Solution Consulting- National Security Group UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999909638520-mgr-solution-consulting-national-security-group
-
