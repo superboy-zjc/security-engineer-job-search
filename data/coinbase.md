@@ -2,9 +2,9 @@ Application Security Engineer UNIQ https://www.coinbase.com/careers/5190579?gh_j
 
 Application Security Engineer UNIQ https://www.coinbase.com/careers/3849370?gh_jid=3849370
 
-Blockchain Security Manager UNIQ https://www.coinbase.com/careers/5010790?gh_jid=5010790
-
 Blockchain Security Manager UNIQ https://www.coinbase.com/careers/5010792?gh_jid=5010792
+
+Blockchain Security Manager UNIQ https://www.coinbase.com/careers/5010790?gh_jid=5010790
 
 Principal, International Security GRC Analyst UNIQ https://www.coinbase.com/careers/5102896?gh_jid=5102896
 
@@ -14,11 +14,11 @@ Senior Security Analyst, Coinbase Institutional UNIQ https://www.coinbase.com/ca
 
 Senior System Security Engineer UNIQ https://www.coinbase.com/careers/3680275?gh_jid=3680275
 
-Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148045?gh_jid=5148045
-
 Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148039?gh_jid=5148039
 
-Staff Software Engineer, Privacy Engineering UNIQ https://www.coinbase.com/careers/5023599?gh_jid=5023599
+Staff Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148045?gh_jid=5148045
 
 Staff Software Engineer, Privacy Engineering UNIQ https://www.coinbase.com/careers/5023601?gh_jid=5023601
+
+Staff Software Engineer, Privacy Engineering UNIQ https://www.coinbase.com/careers/5023599?gh_jid=5023599
 
