@@ -1,4 +1,8 @@
-Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999921429523-security-engineer
+Engineering Manager, Product Security Engineering UNIQ https://jobs.smartrecruiters.com/Square/743999921712283-engineering-manager-product-security-engineering
+
+Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999921711863-security-engineer
+
+Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999921711553-security-engineer
 
 Security Compliance Manager UNIQ https://jobs.smartrecruiters.com/Square/743999920429784-security-compliance-manager
 
