@@ -1,4 +1,4 @@
-Director, Engineering - Production Security UNIQ https://careers.datadoghq.com/detail/4750104/?gh_jid=4750104
+Director, Engineering - Product Security UNIQ https://careers.datadoghq.com/detail/4750104/?gh_jid=4750104
 
 Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
 
