@@ -1,3 +1,5 @@
+Software Engineer, Security - University Graduate 2023 UNIQ https://jobs.lever.co/verkada/47c2d4d8-ee90-4809-8084-dabc2e93b321
+
 Sr. Corporate Security Engineer UNIQ https://jobs.lever.co/verkada/9bdb4193-ae41-4e90-a202-8b3c831ec3e4
 
 Application Security Engineer UNIQ https://jobs.lever.co/verkada/ce6f0c54-78f2-42fa-96e5-17ae185523b9
