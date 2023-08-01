@@ -26,6 +26,8 @@ Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857417/?gh
 
 Senior Product Manager, Cloud Security - Threats UNIQ https://careers.datadoghq.com/detail/5005720/?gh_jid=5005720
 
+Senior Product Marketing Manager - Cloud Security UNIQ https://careers.datadoghq.com/detail/5239714/?gh_jid=5239714
+
 Senior Security Analyst - Federal Programs UNIQ https://careers.datadoghq.com/detail/5250425/?gh_jid=5250425
 
 Senior Security Engineer - Adversary Simulation Operations UNIQ https://careers.datadoghq.com/detail/4989056/?gh_jid=4989056
