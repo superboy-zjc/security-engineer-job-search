@@ -1,6 +1,6 @@
-Application Security Engineer UNIQ https://www.coinbase.com/careers/3849370?gh_jid=3849370
-
 Application Security Engineer UNIQ https://www.coinbase.com/careers/5190579?gh_jid=5190579
+
+Application Security Engineer UNIQ https://www.coinbase.com/careers/3849370?gh_jid=3849370
 
 Principal, International Security GRC Analyst UNIQ https://www.coinbase.com/careers/5102896?gh_jid=5102896
 
