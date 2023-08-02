@@ -20,5 +20,7 @@ Staff Product Manager, Network Security UNIQ https://databricks.com/company/care
 
 Staff Software Engineer - Privacy UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=5829184002
 
-Staff Software Engineer - Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6860229002
+Staff Software Engineer - Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6767165002
+
+Staff Software Engineer - Web Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6860229002
 
