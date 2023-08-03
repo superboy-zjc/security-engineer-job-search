@@ -1,3 +1,5 @@
+Sr Dir, Product Security Mgmt UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922328409-sr-dir-product-security-mgmt
+
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921157263-staff-security-engineer-devsecops
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921157113-staff-security-engineer-devsecops
@@ -13,8 +15,6 @@ Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/Servic
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918560088-staff-security-detection-engineer-splunk
 
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562123-staff-security-detection-engineer-splunk
-
-Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562063-staff-security-detection-engineer-splunk
 
 Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
 
