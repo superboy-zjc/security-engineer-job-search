@@ -2,9 +2,9 @@ Security Engineer II, Cloud Security UNIQ https://www.uber.com/global/en/careers
 
 Senior Security Engineer - Cloud Security UNIQ https://www.uber.com/global/en/careers/list/122501/
 
-Senior Security Engineer UNIQ https://www.uber.com/global/en/careers/list/123876/
-
 Manager II, Cloud Security Engineering UNIQ https://www.uber.com/global/en/careers/list/122783/
+
+Senior Security Engineer UNIQ https://www.uber.com/global/en/careers/list/123876/
 
 Security Manager II, Trusted Identity & Access Management UNIQ https://www.uber.com/global/en/careers/list/122346/
 
