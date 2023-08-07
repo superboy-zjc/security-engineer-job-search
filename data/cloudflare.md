@@ -26,25 +26,25 @@ Security Compliance Specialist (IRAP) UNIQ https://boards.greenhouse.io/cloudfla
 
 Security Compliance Specialist (ISMAP) UNIQ https://boards.greenhouse.io/cloudflare/jobs/5142730?gh_jid=5142730
 
-Security Operations Center Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4802890?gh_jid=4802890
-
 Security Operations Center Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4626259?gh_jid=4626259
 
-Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4812490?gh_jid=4812490
+Security Operations Center Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4802890?gh_jid=4802890
+
+Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787218?gh_jid=4787218
 
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4812489?gh_jid=4812489
 
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787217?gh_jid=4787217
 
-Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787218?gh_jid=4787218
-
-Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
-
-Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
+Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4812490?gh_jid=4812490
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
+
+Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
+
+Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
 
 Software Engineer - Cloud Access Security Broker (CASB) UNIQ https://boards.greenhouse.io/cloudflare/jobs/5187473?gh_jid=5187473
 
@@ -52,7 +52,7 @@ VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/j
 
 VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180159?gh_jid=5180159
 
-VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180266?gh_jid=5180266
-
 VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5177080?gh_jid=5177080
+
+VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180266?gh_jid=5180266
 
