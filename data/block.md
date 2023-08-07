@@ -1,3 +1,5 @@
+Software Engineer, Data Security UNIQ https://jobs.smartrecruiters.com/Square/743999923044153-software-engineer-data-security
+
 Sr. Application Security Engineer, Product Security UNIQ https://jobs.smartrecruiters.com/Square/743999921817843-sr-application-security-engineer-product-security
 
 Engineering Manager, Product Security Engineering UNIQ https://jobs.smartrecruiters.com/Square/743999921712283-engineering-manager-product-security-engineering
