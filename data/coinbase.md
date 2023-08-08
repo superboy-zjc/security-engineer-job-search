@@ -8,9 +8,9 @@ Security Analyst, CSIRT UNIQ https://www.coinbase.com/careers/5278043?gh_jid=527
 
 Security Engineer UNIQ https://www.coinbase.com/careers/5248215?gh_jid=5248215
 
-Senior Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148045?gh_jid=5148045
-
 Senior Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148039?gh_jid=5148039
+
+Senior Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148045?gh_jid=5148045
 
 System Security Engineer UNIQ https://www.coinbase.com/careers/3680275?gh_jid=3680275
 
