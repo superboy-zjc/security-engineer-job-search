@@ -12,5 +12,5 @@ Senior Security Engineer, Protocol Security UNIQ https://www.coinbase.com/career
 
 Senior Security Engineer, Protocol Security UNIQ https://www.coinbase.com/careers/5148039?gh_jid=5148039
 
-Senior System Security Engineer UNIQ https://www.coinbase.com/careers/3680275?gh_jid=3680275
+System Security Engineer UNIQ https://www.coinbase.com/careers/3680275?gh_jid=3680275
 
