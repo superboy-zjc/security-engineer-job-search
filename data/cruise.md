@@ -2,9 +2,9 @@ Global Security Area Manager UNIQ https://boards.greenhouse.io/cruise/jobs/50930
 
 Manager II, Global Security Systems & Technology UNIQ https://boards.greenhouse.io/cruise/jobs/5250546?gh_jid=5250546
 
-Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
-
 Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/5136689?gh_jid=5136689
+
+Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
 
 Senior Security Software Engineer II,  UNIQ https://boards.greenhouse.io/cruise/jobs/5137695?gh_jid=5137695
 
