@@ -4,9 +4,9 @@ Security Engineer, Security Partnerships UNIQ https://stripe.com/jobs/search?gh_
 
 Security Investigations Analyst UNIQ https://stripe.com/jobs/search?gh_jid=5141121
 
-Security Operations Analyst UNIQ https://stripe.com/jobs/search?gh_jid=5038630
-
 Security Operations Analyst UNIQ https://stripe.com/jobs/search?gh_jid=5264750
+
+Security Operations Analyst UNIQ https://stripe.com/jobs/search?gh_jid=5038630
 
 Stripe Privacy Fellowship 2023 UNIQ https://stripe.com/jobs/search?gh_jid=5118185
 
