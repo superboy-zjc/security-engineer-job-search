@@ -2,11 +2,11 @@ Product Security Engineer  UNIQ https://databricks.com/company/careers/open-posi
 
 Senior Manager of Network & Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6698524002
 
+Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854973002
+
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854974002
 
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6588775002
-
-Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854973002
 
 Senior Security Engineer, Incident Response UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=5965881002
 
