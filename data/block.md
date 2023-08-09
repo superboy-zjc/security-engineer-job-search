@@ -1,4 +1,4 @@
-Senior Cloud Security Engineer, Cloud Risk and Insights UNIQ https://jobs.smartrecruiters.com/Square/743999923304513-senior-cloud-security-engineer-cloud-risk-and-insights
+Senior Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999923629650-senior-cloud-security-engineer
 
 Software Engineer, Data Security UNIQ https://jobs.smartrecruiters.com/Square/743999923044153-software-engineer-data-security
 
