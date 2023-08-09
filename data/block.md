@@ -1,4 +1,4 @@
-Senior Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999923629650-senior-cloud-security-engineer
+Senior Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923657151-senior-software-engineer-cloud-security
 
 Software Engineer, Data Security UNIQ https://jobs.smartrecruiters.com/Square/743999923044153-software-engineer-data-security
 
