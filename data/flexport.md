@@ -10,11 +10,9 @@ Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/5161
 
 Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/4812660
 
-Senior Security Compliance Specialist UNIQ https://boards.greenhouse.io/flexport/jobs/4983402
-
 Senior Security Compliance Specialist UNIQ https://boards.greenhouse.io/flexport/jobs/5161671
 
-Sr. Security Engineer, Cloud  UNIQ https://boards.greenhouse.io/flexport/jobs/5027953
+Senior Security Compliance Specialist UNIQ https://boards.greenhouse.io/flexport/jobs/4983402
 
 Staff Application Security Engineer UNIQ https://boards.greenhouse.io/flexport/jobs/5045042
 
