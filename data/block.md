@@ -1,3 +1,7 @@
+Staff Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923978724-staff-software-engineer-cloud-security
+
+Staff Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923978873-staff-software-engineer-cloud-security
+
 Senior Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923657151-senior-software-engineer-cloud-security
 
 Software Engineer, Data Security UNIQ https://jobs.smartrecruiters.com/Square/743999923044153-software-engineer-data-security
