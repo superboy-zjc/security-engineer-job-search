@@ -36,7 +36,7 @@ Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/Servic
 
 Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999918562123-staff-security-detection-engineer-splunk
 
-Staff Security Program Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923722263-staff-security-program-manager
+Staff Security Program Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923730903-staff-security-program-manager
 
 Sr Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923402963-sr-software-engineer-platform-security
 
