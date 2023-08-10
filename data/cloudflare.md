@@ -50,9 +50,9 @@ Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare
 
 Software Engineer - Cloud Access Security Broker (CASB) UNIQ https://boards.greenhouse.io/cloudflare/jobs/5187473?gh_jid=5187473
 
-VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180159?gh_jid=5180159
-
 VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180228?gh_jid=5180228
+
+VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180159?gh_jid=5180159
 
 VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180266?gh_jid=5180266
 
