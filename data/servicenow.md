@@ -1,5 +1,3 @@
-Cyber Security Compliance Analyst UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922933253-cyber-security-compliance-analyst
-
 Staff Product Security Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922526693-staff-product-security-test-engineer
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921155974-staff-security-engineer-devsecops
