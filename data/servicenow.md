@@ -12,8 +12,6 @@ Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com
 
 Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
 
-Cyber Security Compliance Analyst UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999917340223-cyber-security-compliance-analyst
-
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921156852-staff-security-engineer-devsecops
 
 Sr Dir, Product Security Mgmt UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922328409-sr-dir-product-security-mgmt
