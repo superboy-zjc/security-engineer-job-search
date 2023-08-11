@@ -20,3 +20,5 @@ Security Engineer, Threat Intelligence UNIQ https://wd1.myworkdaysite.com/recrui
 
 Security Engineer UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Zurich---Switzerland/Security-Engineer_R0031818-1
 
+Security Engineer UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Zurich---Switzerland/Security-Engineer_R0032098
+
