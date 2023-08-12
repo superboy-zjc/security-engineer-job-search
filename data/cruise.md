@@ -4,9 +4,9 @@ Manager II, Global Security Systems & Technology UNIQ https://boards.greenhouse.
 
 Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhouse.io/cruise/jobs/5281982?gh_jid=5281982
 
-Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
-
 Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/5136689?gh_jid=5136689
+
+Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
 
 Senior Security Software Engineer II,  UNIQ https://boards.greenhouse.io/cruise/jobs/5137695?gh_jid=5137695
 
