@@ -1,3 +1,5 @@
+Senior Security Engineer UNIQ https://boards.greenhouse.io/aurorainnovation/jobs/6878067002
+
 Senior Staff Security Engineer - Detection and Response UNIQ https://boards.greenhouse.io/aurorainnovation/jobs/6797057002
 
 Staff Product Security Engineer UNIQ https://boards.greenhouse.io/aurorainnovation/jobs/6586302002
