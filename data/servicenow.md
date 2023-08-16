@@ -42,11 +42,11 @@ Staff Security Detection Engineer - SPLUNK UNIQ https://jobs.smartrecruiters.com
 
 Software QA Engineer- Platform Security QE UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924817033-software-qa-engineer-platform-security-qe
 
-Sr Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923402963-sr-software-engineer-platform-security
+Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858193-staff-software-engineer-platform-security
 
-Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923401379-staff-software-engineer-platform-security
+Sr Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858153-sr-software-engineer-platform-security
 
-Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923401933-staff-software-engineer-platform-security
+Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858093-staff-software-engineer-platform-security
 
 Senior Security Advisor UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923261158-senior-security-advisor
 
