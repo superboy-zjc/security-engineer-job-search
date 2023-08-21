@@ -14,7 +14,5 @@ Threat Detection Engineer II UNIQ https://www.uber.com/global/en/careers/list/12
 
 Senior Staff Risk Lead UNIQ https://www.uber.com/global/en/careers/list/123085/
 
-Lead Cybersecurity Assurance Analyst UNIQ https://www.uber.com/global/en/careers/list/122894/
-
 Sr Software Engineer - PKI UNIQ https://www.uber.com/global/en/careers/list/121027/
 
