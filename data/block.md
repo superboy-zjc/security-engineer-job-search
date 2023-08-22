@@ -24,7 +24,5 @@ Security Compliance Manager UNIQ https://jobs.smartrecruiters.com/Square/7439999
 
 Application Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999918777433-application-security-engineer
 
-Software Engineer, Product Security UNIQ https://jobs.smartrecruiters.com/Square/743999916505618-software-engineer-product-security
-
 Senior Platform Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999896728878-senior-platform-security-engineer
 
