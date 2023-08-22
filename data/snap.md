@@ -1,3 +1,5 @@
+Manager, Global Security Operations Center UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Manager--Global-Security-Operations-Center_R0032272
+
 Privacy Engineer UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Privacy-Engineer_R0032395
 
 Security Engineer, Threat Intelligence UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Security-Engineer---Detection-and-Response_R0031836
