@@ -1,10 +1,6 @@
-Staff Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924014852-staff-cloud-security-engineer
-
 Staff Product Security Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922526693-staff-product-security-test-engineer
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921155974-staff-security-engineer-devsecops
-
-Staff Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924015583-staff-cloud-security-engineer
 
 Staff Product Security Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922526953-staff-product-security-test-engineer
 
@@ -18,15 +14,11 @@ Sr Dir, Product Security Mgmt UNIQ https://jobs.smartrecruiters.com/ServiceNow/7
 
 Staff Security Engineer - Container Security Engineer DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999896075223-staff-security-engineer-container-security-engineer-devsecops
 
-Staff Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924015018-staff-cloud-security-engineer
-
 Staff Product Security Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922527063-staff-product-security-test-engineer
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921156423-staff-security-engineer-devsecops
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921157263-staff-security-engineer-devsecops
-
-Staff Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924015105-staff-cloud-security-engineer
 
 Staff Product Security Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922527033-staff-product-security-test-engineer
 
