@@ -4,9 +4,9 @@ Manager II, Global Security Systems & Technology UNIQ https://boards.greenhouse.
 
 Senior Business Analyst II, Strategy and Operations - Security & IT UNIQ https://boards.greenhouse.io/cruise/jobs/5309402?gh_jid=5309402
 
-Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhouse.io/cruise/jobs/5282288?gh_jid=5282288
-
 Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhouse.io/cruise/jobs/5281982?gh_jid=5281982
+
+Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhouse.io/cruise/jobs/5282288?gh_jid=5282288
 
 Senior Security Software Engineer II UNIQ https://boards.greenhouse.io/cruise/jobs/5136689?gh_jid=5136689
 
@@ -14,9 +14,9 @@ Senior Security Software Engineer II,  UNIQ https://boards.greenhouse.io/cruise/
 
 Senior Security Software Engineer II/Security Data  UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
 
-Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5313576?gh_jid=5313576
-
 Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5312777?gh_jid=5312777
+
+Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5313576?gh_jid=5313576
 
 Senior Staff Technical Product Manager, Information Governance and Privacy UNIQ https://boards.greenhouse.io/cruise/jobs/5084394?gh_jid=5084394
 
