@@ -14,13 +14,13 @@ Senior Security Software Engineer II,  UNIQ https://boards.greenhouse.io/cruise/
 
 Senior Security Software Engineer II/Security Data  UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
 
-Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5312777?gh_jid=5312777
-
 Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5313576?gh_jid=5313576
+
+Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5312777?gh_jid=5312777
 
 Senior Staff Technical Product Manager, Information Governance and Privacy UNIQ https://boards.greenhouse.io/cruise/jobs/5084394?gh_jid=5084394
 
-Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268914?gh_jid=5268914
-
 Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268493?gh_jid=5268493
+
+Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268914?gh_jid=5268914
 
