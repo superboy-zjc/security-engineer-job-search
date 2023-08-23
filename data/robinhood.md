@@ -4,6 +4,8 @@ Director of Internal Audit - Engineering & Security UNIQ https://boards.greenhou
 
 Engineering Manager, Privacy Infrastructure UNIQ https://boards.greenhouse.io/robinhood/jobs/5181119?t=gh_src=&gh_jid=5181119
 
+Privacy and Data Protection Program Manager UNIQ https://boards.greenhouse.io/robinhood/jobs/5188073?t=gh_src=&gh_jid=5188073
+
 Security Engineer - Security Solutions and Assessments UNIQ https://boards.greenhouse.io/robinhood/jobs/5173852?t=gh_src=&gh_jid=5173852
 
 Senior Blockchain Security Engineer UNIQ https://boards.greenhouse.io/robinhood/jobs/5173850?t=gh_src=&gh_jid=5173850
