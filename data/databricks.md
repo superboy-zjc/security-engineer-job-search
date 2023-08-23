@@ -16,13 +16,13 @@ Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-posit
 
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897608002
 
-Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897603002
-
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897605002
 
-Staff Product Manager, Network Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6583066002
+Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897603002
 
 Staff Product Manager, Network Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6454355002
+
+Staff Product Manager, Network Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6583066002
 
  Staff Security Assurance Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6857150002
 
