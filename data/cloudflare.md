@@ -6,9 +6,9 @@ Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143169
 
 Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143144?gh_jid=5143144
 
-Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
-
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258
+
+Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
 
 Product Operations Manager - Security Standards and Solutions UNIQ https://boards.greenhouse.io/cloudflare/jobs/5139614?gh_jid=5139614
 
@@ -24,17 +24,17 @@ Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare
 
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5171688?gh_jid=5171688
 
-Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787218?gh_jid=4787218
-
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4812490?gh_jid=4812490
 
-Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787217?gh_jid=4787217
+Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787218?gh_jid=4787218
 
-Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
+Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787217?gh_jid=4787217
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
+
+Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
 
