@@ -6,8 +6,6 @@ Engineering Manager II - Cloud Security UNIQ https://careers.datadoghq.com/detai
 
 Enterprise IT Security Engineer UNIQ https://careers.datadoghq.com/detail/5140236/?gh_jid=5140236
 
-Manager 1, Engineering - Cloud Security Posture Management UNIQ https://careers.datadoghq.com/detail/4874635/?gh_jid=4874635
-
 Manager 1, Engineering - Cloud Security Posture Management UNIQ https://careers.datadoghq.com/detail/5318978/?gh_jid=5318978
 
 Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5091424/?gh_jid=5091424
@@ -28,9 +26,9 @@ Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadogh
 
 Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
 
-Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
-
 Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5296227/?gh_jid=5296227
+
+Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
 
 Staff Security Engineer - Remote Configuration UNIQ https://careers.datadoghq.com/detail/5250434/?gh_jid=5250434
 
