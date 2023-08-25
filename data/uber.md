@@ -10,6 +10,8 @@ Security Manager II, Trusted Identity & Access Management UNIQ https://www.uber.
 
 Staff Security Engineer, Trusted Identity UNIQ https://www.uber.com/global/en/careers/list/123142/
 
+Threat Detection Engineer II UNIQ https://www.uber.com/global/en/careers/list/121860/
+
 Senior Staff Risk Lead UNIQ https://www.uber.com/global/en/careers/list/123085/
 
 Sr Software Engineer - PKI UNIQ https://www.uber.com/global/en/careers/list/121027/

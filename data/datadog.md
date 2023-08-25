@@ -12,11 +12,13 @@ Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5091424/?gh_jid
 
 Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
 
+Security Engineer - Software Integrity and Trust UNIQ https://careers.datadoghq.com/detail/5321412/?gh_jid=5321412
+
 Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857413/?gh_jid=4857413
 
-Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
-
 Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857417/?gh_jid=4857417
+
+Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
 
 Senior Product Manager, Cloud Security - Threats UNIQ https://careers.datadoghq.com/detail/5005720/?gh_jid=5005720
 
