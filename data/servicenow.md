@@ -1,6 +1,10 @@
+Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837236-senior-staff-security-contracts-manager
+
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286693-security-penetration-test-engineer
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921155974-staff-security-engineer-devsecops
+
+Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837503-senior-staff-security-contracts-manager
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286893-security-penetration-test-engineer
 
@@ -14,11 +18,15 @@ Sr Dir, Product Security Mgmt UNIQ https://jobs.smartrecruiters.com/ServiceNow/7
 
 Staff Security Engineer - Container Security Engineer DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999896075223-staff-security-engineer-container-security-engineer-devsecops
 
+Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837603-senior-staff-security-contracts-manager
+
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286933-security-penetration-test-engineer
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921156423-staff-security-engineer-devsecops
 
 Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921157263-staff-security-engineer-devsecops
+
+Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837813-senior-staff-security-contracts-manager
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286691-security-penetration-test-engineer
 
