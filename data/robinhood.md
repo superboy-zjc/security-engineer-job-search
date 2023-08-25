@@ -16,3 +16,5 @@ Sr. Security Engineer, Cloud Security UNIQ https://boards.greenhouse.io/robinhoo
 
 Staff Security Engineer - Offensive Security UNIQ https://boards.greenhouse.io/robinhood/jobs/5148808?t=gh_src=&gh_jid=5148808
 
+Web Engineer,  Account Security UNIQ https://boards.greenhouse.io/robinhood/jobs/5298254?t=gh_src=&gh_jid=5298254
+
