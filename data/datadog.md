@@ -1,6 +1,6 @@
-Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
-
 Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080553/?gh_jid=5080553
+
+Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
 
 Engineering Manager II - Cloud Security UNIQ https://careers.datadoghq.com/detail/5112227/?gh_jid=5112227
 
@@ -10,9 +10,9 @@ Manager 1, Engineering - Cloud Security Posture Management UNIQ https://careers.
 
 Privacy Analyst II UNIQ https://careers.datadoghq.com/detail/5316905/?gh_jid=5316905
 
-Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
-
 Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5091424/?gh_jid=5091424
+
+Privacy Counsel (EMEA) UNIQ https://careers.datadoghq.com/detail/5021824/?gh_jid=5021824
 
 Security Engineer - Software Integrity and Trust UNIQ https://careers.datadoghq.com/detail/5321412/?gh_jid=5321412
 
@@ -26,13 +26,13 @@ Senior Product Manager, Cloud Security - Threats UNIQ https://careers.datadoghq.
 
 Senior Security Analyst - Federal Programs UNIQ https://careers.datadoghq.com/detail/5250425/?gh_jid=5250425
 
-Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
-
 Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
 
-Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5296227/?gh_jid=5296227
+Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
 
 Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
+
+Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5296227/?gh_jid=5296227
 
 Staff Security Engineer - Remote Configuration UNIQ https://careers.datadoghq.com/detail/5250434/?gh_jid=5250434
 
