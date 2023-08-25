@@ -4,9 +4,9 @@ Manager II, Global Security Systems & Technology UNIQ https://boards.greenhouse.
 
 Security Engineer, Security Operations UNIQ https://boards.greenhouse.io/cruise/jobs/5317528?gh_jid=5317528
 
-Senior Security Engineer II, Security Operations UNIQ https://boards.greenhouse.io/cruise/jobs/5321401?gh_jid=5321401
-
 Senior Security Engineer II, Security Operations UNIQ https://boards.greenhouse.io/cruise/jobs/5317524?gh_jid=5317524
+
+Senior Security Engineer II, Security Operations UNIQ https://boards.greenhouse.io/cruise/jobs/5321401?gh_jid=5321401
 
 Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhouse.io/cruise/jobs/5281982?gh_jid=5281982
 
@@ -20,7 +20,7 @@ Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.gree
 
 Senior Staff Technical Product Manager, Information Governance and Privacy UNIQ https://boards.greenhouse.io/cruise/jobs/5084394?gh_jid=5084394
 
-Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268914?gh_jid=5268914
-
 Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268493?gh_jid=5268493
+
+Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268914?gh_jid=5268914
 
