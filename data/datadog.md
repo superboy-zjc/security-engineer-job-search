@@ -30,9 +30,9 @@ Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadogh
 
 Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
 
-Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
-
 Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5296227/?gh_jid=5296227
+
+Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
 
 Staff Security Engineer - Remote Configuration UNIQ https://careers.datadoghq.com/detail/5250434/?gh_jid=5250434
 
