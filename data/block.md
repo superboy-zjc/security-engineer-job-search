@@ -1,5 +1,3 @@
-Software Engineer, Data Security UNIQ https://jobs.smartrecruiters.com/Square/743999926566274-software-engineer-data-security
-
 Trading & Securities Operations Lead UNIQ https://jobs.smartrecruiters.com/Square/743999925992673-trading-securities-operations-lead
 
 Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999925023723-security-engineer
