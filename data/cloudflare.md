@@ -6,9 +6,9 @@ Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143169
 
 Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143144?gh_jid=5143144
 
-Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
-
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258
+
+Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
 
 Product Operations Manager - Security Standards and Solutions UNIQ https://boards.greenhouse.io/cloudflare/jobs/5139614?gh_jid=5139614
 
