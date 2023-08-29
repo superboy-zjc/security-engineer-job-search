@@ -1,3 +1,5 @@
+Security Software Engineer - University Graduate 2024 UNIQ https://jobs.lever.co/verkada/3018dfbe-b567-4a42-a46a-3f6a06b01716
+
 Software Engineer, Security - University Graduate 2023 UNIQ https://jobs.lever.co/verkada/47c2d4d8-ee90-4809-8084-dabc2e93b321
 
 Software Engineering Intern, Security - Summer 2024 UNIQ https://jobs.lever.co/verkada/30f11a8c-051d-4966-be60-5d8e65e4c4a7
