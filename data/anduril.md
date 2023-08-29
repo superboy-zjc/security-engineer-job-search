@@ -6,7 +6,5 @@ Senior Security Engineer - Insider Threat UNIQ https://jobs.lever.co/anduril/4a5
 
 Global Physical Security Manager UNIQ https://jobs.lever.co/anduril/3be58c69-d2c6-463a-97bf-b12f2cc61706
 
-Contractor Special Security Officer (CSSO) UNIQ https://jobs.lever.co/anduril/78a46e4d-6cee-4274-9012-e0639f2cafdb
-
 Security Engineer UNIQ https://jobs.lever.co/anduril/aee7f53b-2428-459d-8c3c-aedb3d4a9ba8
 
