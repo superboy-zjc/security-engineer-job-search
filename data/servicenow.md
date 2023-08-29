@@ -36,6 +36,8 @@ Sr Manager, Software Engineering - Platform Security UNIQ https://jobs.smartrecr
 
 Software QA Engineer- Platform Security QE UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924817033-software-qa-engineer-platform-security-qe
 
+Regional Safety & Security Operations Manager, Americas UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999927317823-regional-safety-security-operations-manager-americas
+
 Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858193-staff-software-engineer-platform-security
 
 Sr Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858153-sr-software-engineer-platform-security
