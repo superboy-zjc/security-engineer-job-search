@@ -4,6 +4,8 @@ Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/5161
 
 Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/4812660
 
+Senior Director, Security Governance, Risk and Compliance UNIQ https://boards.greenhouse.io/flexport/jobs/5303114
+
 Senior Security Compliance Associate  UNIQ https://boards.greenhouse.io/flexport/jobs/5161671
 
 Senior Security Compliance Associate  UNIQ https://boards.greenhouse.io/flexport/jobs/4983402
