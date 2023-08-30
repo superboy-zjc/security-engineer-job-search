@@ -18,19 +18,19 @@ Product Designer - Cloud Security Management (Cloud SIEM) UNIQ https://careers.d
 
 Security Engineer - Software Integrity and Trust UNIQ https://careers.datadoghq.com/detail/5321412/?gh_jid=5321412
 
-Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857417/?gh_jid=4857417
+Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
 
 Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857413/?gh_jid=4857413
 
-Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
+Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857417/?gh_jid=4857417
 
 Senior Product Manager, Cloud Security - Threats UNIQ https://careers.datadoghq.com/detail/5005720/?gh_jid=5005720
 
 Senior Security Analyst - Federal Programs UNIQ https://careers.datadoghq.com/detail/5250425/?gh_jid=5250425
 
-Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
-
 Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
+
+Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
 
 Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
 

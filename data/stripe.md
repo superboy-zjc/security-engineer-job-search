@@ -1,4 +1,4 @@
-Global Security Operations Center and Intelligence Manager UNIQ https://stripe.com/jobs/search?gh_jid=5311631
+Global Security Operations Center Manager UNIQ https://stripe.com/jobs/search?gh_jid=5311631
 
 Program Manager, Security Risk Management UNIQ https://stripe.com/jobs/search?gh_jid=4960255
 
