@@ -12,11 +12,11 @@ Senior Product Security Engineer UNIQ https://databricks.com/company/careers/ope
 
 Sr. Security Incident Handler UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6819271002
 
-Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6857148002
+Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897605002
 
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897603002
 
-Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897605002
+Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6857148002
 
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897608002
 
