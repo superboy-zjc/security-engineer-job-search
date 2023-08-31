@@ -1,5 +1,3 @@
-Staff Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999927694712-staff-product-security-engineer
-
 Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837236-senior-staff-security-contracts-manager
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286693-security-penetration-test-engineer
@@ -8,11 +6,7 @@ Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/Se
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286893-security-penetration-test-engineer
 
-Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921157113-staff-security-engineer-devsecops
-
 Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
-
-Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921156852-staff-security-engineer-devsecops
 
 Sr Dir, Product Security Mgmt UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999922328409-sr-dir-product-security-mgmt
 
@@ -22,15 +16,9 @@ Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/Se
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286933-security-penetration-test-engineer
 
-Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921156423-staff-security-engineer-devsecops
-
-Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921157263-staff-security-engineer-devsecops
-
 Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837813-senior-staff-security-contracts-manager
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286691-security-penetration-test-engineer
-
-Staff Security Engineer - DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999921154394-staff-security-engineer-devsecops
 
 Sr Manager, Software Engineering - Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999925092006-sr-manager-software-engineering-platform-security
 
