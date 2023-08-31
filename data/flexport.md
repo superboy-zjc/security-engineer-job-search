@@ -1,8 +1,8 @@
 Architect, Cloud Security UNIQ https://boards.greenhouse.io/flexport/jobs/5050846
 
-Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/5161670
-
 Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/4812660
+
+Security Compliance Manager UNIQ https://boards.greenhouse.io/flexport/jobs/5161670
 
 Senior Director, Security Governance, Risk and Compliance UNIQ https://boards.greenhouse.io/flexport/jobs/5303114
 
