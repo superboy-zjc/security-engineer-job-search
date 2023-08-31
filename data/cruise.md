@@ -16,7 +16,7 @@ Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.gree
 
 Senior Security Software Engineer II, Trust & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5312777?gh_jid=5312777
 
-Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268493?gh_jid=5268493
-
 Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268914?gh_jid=5268914
+
+Staff Security Engineer, Platform Security (PKI & Secrets Management) UNIQ https://boards.greenhouse.io/cruise/jobs/5268493?gh_jid=5268493
 
