@@ -1,6 +1,6 @@
-Trading & Securities Operations Lead UNIQ https://jobs.smartrecruiters.com/Square/743999925992673-trading-securities-operations-lead
+Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999927929168-security-engineer
 
-Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999925023723-security-engineer
+Trading & Securities Operations Lead UNIQ https://jobs.smartrecruiters.com/Square/743999925992673-trading-securities-operations-lead
 
 Security Operations Manager UNIQ https://jobs.smartrecruiters.com/Square/743999924976178-security-operations-manager
 
