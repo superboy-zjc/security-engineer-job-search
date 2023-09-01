@@ -1,5 +1,7 @@
 Senior Business Analyst (Workday Advanced Compensation and Security), IT UNIQ https://boards.greenhouse.io/aurorainnovation/jobs/6865029002
 
+Senior Business Analyst (Workday Compensation and Security), IT. UNIQ https://boards.greenhouse.io/aurorainnovation/jobs/6913605002
+
 Senior Security Engineer UNIQ https://boards.greenhouse.io/aurorainnovation/jobs/6878067002
 
 Senior Security Engineer UNIQ https://boards.greenhouse.io/aurorainnovation/jobs/6894601002
