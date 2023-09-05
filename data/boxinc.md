@@ -10,7 +10,7 @@ Product Manager, Core Security UNIQ https://boards.greenhouse.io/boxinc/jobs/520
 
 Security & Compliance Manager (ISMAP) UNIQ https://boards.greenhouse.io/boxinc/jobs/4927086
 
-Senior Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5317374
-
 Senior Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5318749
+
+Senior Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5317374
 
