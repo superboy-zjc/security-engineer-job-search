@@ -1,6 +1,6 @@
-Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5322037
-
 Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5322039
+
+Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5322037
 
 Director, Security Product Marketing UNIQ https://boards.greenhouse.io/boxinc/jobs/5312070
 
