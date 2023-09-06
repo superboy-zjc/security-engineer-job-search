@@ -14,8 +14,6 @@ Senior Blockchain Security Engineer UNIQ https://boards.greenhouse.io/robinhood/
 
 Senior Security Engineer - Detection and Response UNIQ https://boards.greenhouse.io/robinhood/jobs/5022043?t=gh_src=&gh_jid=5022043
 
-Sr. Security Engineer, Cloud Security UNIQ https://boards.greenhouse.io/robinhood/jobs/5302189?t=gh_src=&gh_jid=5302189
-
 Staff Security Engineer, Detection and Response UNIQ https://boards.greenhouse.io/robinhood/jobs/5328912?t=gh_src=&gh_jid=5328912
 
 Staff Security Engineer - Offensive Security UNIQ https://boards.greenhouse.io/robinhood/jobs/5148808?t=gh_src=&gh_jid=5148808
