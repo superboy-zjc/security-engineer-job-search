@@ -2,7 +2,7 @@ Security Engineer (L5) - Application and Infrastructure Security UNIQ https://jo
 
 Security Engineer 4 - GRC UNIQ https://jobs.lever.co/netflix/a4ab63ef-e3f2-4aa0-bc8e-298d167bb8e7
 
-Security Risk Engineer (L4), Data Analyst UNIQ https://jobs.lever.co/netflix/7621a3a6-047d-43d8-9324-17b574a1a0bc
+Security Risk Engineer (L4) UNIQ https://jobs.lever.co/netflix/7621a3a6-047d-43d8-9324-17b574a1a0bc
 
 Security Software Engineer (L5), Security Platforms Engineering UNIQ https://jobs.lever.co/netflix/9f032884-0638-418e-9cf7-9799d7871bc3
 
