@@ -1,14 +1,12 @@
 Director, Product Marketing - Application Security  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5045483?gh_jid=5045483
 
-Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143144?gh_jid=5143144
-
 Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143169?gh_jid=5143169
+
+Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143144?gh_jid=5143144
 
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258
 
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
-
-Product Operations Manager - Security Standards and Solutions UNIQ https://boards.greenhouse.io/cloudflare/jobs/5139614?gh_jid=5139614
 
 Security Compliance Specialist (IRAP) UNIQ https://boards.greenhouse.io/cloudflare/jobs/5081765?gh_jid=5081765
 
@@ -20,19 +18,19 @@ Security Operations Center Engineer UNIQ https://boards.greenhouse.io/cloudflare
 
 Security Operations Center Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4626259?gh_jid=4626259
 
-Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5171688?gh_jid=5171688
-
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4812489?gh_jid=4812489
 
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4812490?gh_jid=4812490
 
-Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787218?gh_jid=4787218
-
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787217?gh_jid=4787217
 
-Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
+Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4787218?gh_jid=4787218
+
+Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5171688?gh_jid=5171688
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
+
+Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
 
