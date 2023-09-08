@@ -32,19 +32,19 @@ Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare
 
 Security Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/4812490?gh_jid=4812490
 
-Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
-
-Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
-
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
 
-VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180159?gh_jid=5180159
+Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
+
+Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
 
 VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180228?gh_jid=5180228
 
-VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180266?gh_jid=5180266
+VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180159?gh_jid=5180159
 
 VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5177080?gh_jid=5177080
+
+VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180266?gh_jid=5180266
 
