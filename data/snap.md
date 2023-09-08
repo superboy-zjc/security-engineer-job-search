@@ -2,6 +2,8 @@ Manager, Global Security Operations Center UNIQ https://wd1.myworkdaysite.com/re
 
 Privacy Engineer UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Privacy-Engineer_R0032395
 
+Residential Security Driver UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Residential-Security-Driver_R0032647
+
 Security Engineer, Threat Intelligence UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Security-Engineer---Detection-and-Response_R0031836
 
 Security Engineer, Detection and Response, 3+ Years of Experience UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Santa-Monica---2772-Donald-Douglas-Loop-N/Security-Engineer--Detection-and-Response_R0031835
