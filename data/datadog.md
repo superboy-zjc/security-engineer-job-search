@@ -18,7 +18,7 @@ Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857417/?gh
 
 Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
 
-Senior Product Designer - Cloud Security Management (Cloud SIEM) UNIQ https://careers.datadoghq.com/detail/5296090/?gh_jid=5296090
+Senior Product Designer, Security (Cloud SIEM) UNIQ https://careers.datadoghq.com/detail/5296090/?gh_jid=5296090
 
 Senior Product Manager, Cloud Security - Threats UNIQ https://careers.datadoghq.com/detail/5005720/?gh_jid=5005720
 
