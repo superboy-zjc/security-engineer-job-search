@@ -40,7 +40,7 @@ VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/j
 
 VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180159?gh_jid=5180159
 
-VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5177080?gh_jid=5177080
-
 VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180266?gh_jid=5180266
+
+VP, Security Operations and Technology  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5177080?gh_jid=5177080
 

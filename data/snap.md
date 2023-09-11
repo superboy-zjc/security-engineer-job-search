@@ -14,7 +14,5 @@ Security Engineer, Detection and Response UNIQ https://wd1.myworkdaysite.com/rec
 
 Security Engineer, Detection and Response UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Sydney-Australia/Security-Engineer--Detection-and-Response_R0032014-1
 
-Security Engineering Manager, Detection and Response UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Sydney-Australia/Security-Engineering-Manager--Detection-and-Response_R0031892-1
-
 Security Engineer UNIQ https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Zurich---Switzerland/Security-Engineer_R0032098
 
