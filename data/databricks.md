@@ -30,9 +30,9 @@ Staff Security Assurance Project Manager UNIQ https://databricks.com/company/car
 
 Staff Security Engineer (Assurance Field Security) UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6784852002
 
-Staff Software Engineer - Privacy UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6919798002
-
 Staff Software Engineer - Privacy UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=5829184002
+
+Staff Software Engineer - Privacy UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6919798002
 
 Staff Software Engineer - Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6767165002
 
