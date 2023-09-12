@@ -1,3 +1,5 @@
+Assistant General Counsel, Privacy and Data Protection UNIQ https://boards.greenhouse.io/robinhood/jobs/5361682?t=gh_src=&gh_jid=5361682
+
 Chief Information Security Officer (CISO) - Crypto UNIQ https://boards.greenhouse.io/robinhood/jobs/5050214?t=gh_src=&gh_jid=5050214
 
 Director of Internal Audit - Engineering & Security UNIQ https://boards.greenhouse.io/robinhood/jobs/5284343?t=gh_src=&gh_jid=5284343

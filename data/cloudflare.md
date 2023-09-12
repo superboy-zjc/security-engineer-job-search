@@ -1,9 +1,5 @@
 Director, Product Marketing - Application Security  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5045483?gh_jid=5045483
 
-Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143169?gh_jid=5143169
-
-Legal Counsel, Privacy UNIQ https://boards.greenhouse.io/cloudflare/jobs/5143144?gh_jid=5143144
-
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
 
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258
