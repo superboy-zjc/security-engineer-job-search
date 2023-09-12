@@ -1,8 +1,12 @@
+Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930106913-staff-security-software-engineer-python
+
 Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929801323-technical-program-manager-security-automation
 
 Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837236-senior-staff-security-contracts-manager
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286693-security-penetration-test-engineer
+
+Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107443-staff-security-software-engineer-python
 
 Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929801463-technical-program-manager-security-automation
 
@@ -20,11 +24,15 @@ Sr Dir, Product Security Mgmt UNIQ https://jobs.smartrecruiters.com/ServiceNow/7
 
 Staff Security Engineer - Container Security Engineer DevSecOps UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999896075223-staff-security-engineer-container-security-engineer-devsecops
 
+Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107333-staff-security-software-engineer-python
+
 Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929800928-technical-program-manager-security-automation
 
 Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837603-senior-staff-security-contracts-manager
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286933-security-penetration-test-engineer
+
+Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107493-staff-security-software-engineer-python
 
 Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929801603-technical-program-manager-security-automation
 
