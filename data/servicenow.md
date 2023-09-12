@@ -34,8 +34,6 @@ Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/Service
 
 Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929420063-senior-manager-public-cloud-security-engineering
 
-Software QA Engineer- Platform Security QE UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924817033-software-qa-engineer-platform-security-qe
-
 Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858193-staff-software-engineer-platform-security
 
 Sr Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858153-sr-software-engineer-platform-security
