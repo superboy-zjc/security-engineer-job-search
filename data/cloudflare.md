@@ -1,8 +1,8 @@
 Director, Product Marketing - Application Security  UNIQ https://boards.greenhouse.io/cloudflare/jobs/5045483?gh_jid=5045483
 
-Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
-
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728258?gh_jid=4728258
+
+Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
 
 Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/5318785?gh_jid=5318785
 
