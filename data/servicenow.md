@@ -20,6 +20,8 @@ Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/Service
 
 Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
 
+Senior Endpoint Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930409009-senior-endpoint-security-engineer
+
 Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929077352-cloud-security-engineer
 
 Senior Cloud Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929076673-senior-cloud-security-engineer
