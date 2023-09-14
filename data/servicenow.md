@@ -1,12 +1,12 @@
-Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930108254-staff-security-researcher-product-security
+Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342173-technical-program-manager-security-automation
 
-Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930106913-staff-security-software-engineer-python
+Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342133-staff-security-software-engineer-python
 
-Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929801323-technical-program-manager-security-automation
+Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342093-staff-security-researcher-product-security
 
-Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837236-senior-staff-security-contracts-manager
+Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930341864-security-penetration-test-engineer
 
-Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286693-security-penetration-test-engineer
+Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930341778-senior-staff-security-contracts-manager
 
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930109603-staff-security-researcher-product-security
 
@@ -48,7 +48,7 @@ Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/Se
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286691-security-penetration-test-engineer
 
-Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929420063-senior-manager-public-cloud-security-engineering
+Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342223-senior-manager-public-cloud-security-engineering
 
 Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858193-staff-software-engineer-platform-security
 
