@@ -6,14 +6,6 @@ Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999927929168-s
 
 Sr. Application Security Engineer, Product Security UNIQ https://jobs.smartrecruiters.com/Square/743999924031183-sr-application-security-engineer-product-security
 
-Staff Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923979243-staff-software-engineer-cloud-security
-
-Staff Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923978724-staff-software-engineer-cloud-security
-
-Staff Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923978873-staff-software-engineer-cloud-security
-
-Senior Software Engineer, Cloud Security UNIQ https://jobs.smartrecruiters.com/Square/743999923657151-senior-software-engineer-cloud-security
-
 Security Compliance Manager UNIQ https://jobs.smartrecruiters.com/Square/743999920429784-security-compliance-manager
 
 Security Compliance Manager UNIQ https://jobs.smartrecruiters.com/Square/743999919068323-security-compliance-manager

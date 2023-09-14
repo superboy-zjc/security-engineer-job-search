@@ -8,9 +8,9 @@ Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhous
 
 Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhouse.io/cruise/jobs/5282288?gh_jid=5282288
 
-Senior Security Software Engineer II, Risk & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5313576?gh_jid=5313576
-
 Senior Security Software Engineer II, Risk & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5312777?gh_jid=5312777
+
+Senior Security Software Engineer II, Risk & Assurance UNIQ https://boards.greenhouse.io/cruise/jobs/5313576?gh_jid=5313576
 
 Senior Security Software Engineer II, Security Data  UNIQ https://boards.greenhouse.io/cruise/jobs/4987945?gh_jid=4987945
 
