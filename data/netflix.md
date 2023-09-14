@@ -6,5 +6,7 @@ Security Risk Engineer (L4) UNIQ https://jobs.lever.co/netflix/7621a3a6-047d-43d
 
 Security Software Engineer (L5), Security Platforms Engineering UNIQ https://jobs.lever.co/netflix/9f032884-0638-418e-9cf7-9799d7871bc3
 
+Specialist, Security & Intelligence - Production UNIQ https://jobs.lever.co/netflix/ff9e8858-948c-4fb0-921b-284b9439b018
+
 Administrative Assistant, Safety and Security UNIQ https://jobs.lever.co/netflix/7013fbaf-a7f6-46e2-85ae-94ebfed15fef
 
