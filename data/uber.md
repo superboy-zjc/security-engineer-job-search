@@ -6,7 +6,5 @@ Senior Security Engineer - Cloud Security UNIQ https://www.uber.com/global/en/ca
 
 Senior Security Engineer UNIQ https://www.uber.com/global/en/careers/list/123876/
 
-Sr Software Engineer, Application Security UNIQ https://www.uber.com/global/en/careers/list/124456/
-
 Sr Software Engineer - PKI UNIQ https://www.uber.com/global/en/careers/list/121027/
 
