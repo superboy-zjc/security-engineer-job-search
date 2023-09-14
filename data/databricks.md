@@ -2,19 +2,19 @@ Privacy Analyst (Legal) UNIQ https://databricks.com/company/careers/open-positio
 
 Product Security Engineer  UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6710610002
 
-Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6588775002
-
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854974002
+
+Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6588775002
 
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854973002
 
 Sr. Security Incident Handler UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6819271002
 
-Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897608002
+Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897603002
 
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897605002
 
-Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897603002
+Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897608002
 
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6857148002
 
