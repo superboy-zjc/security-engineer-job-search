@@ -14,11 +14,11 @@ Security Engineer - Software Integrity and Trust UNIQ https://careers.datadoghq.
 
 Security Engineer - Trust & Safety UNIQ https://careers.datadoghq.com/detail/5362907/?gh_jid=5362907
 
-Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857413/?gh_jid=4857413
-
 Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857417/?gh_jid=4857417
 
 Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4854838/?gh_jid=4854838
+
+Security Software Engineer UNIQ https://careers.datadoghq.com/detail/4857413/?gh_jid=4857413
 
 Senior Product Designer, Security (Cloud SIEM) UNIQ https://careers.datadoghq.com/detail/5296090/?gh_jid=5296090
 
@@ -30,9 +30,9 @@ Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadogh
 
 Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
 
-Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5296227/?gh_jid=5296227
-
 Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
+
+Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5296227/?gh_jid=5296227
 
 Staff Security Engineer - Remote Configuration UNIQ https://careers.datadoghq.com/detail/5250434/?gh_jid=5250434
 
