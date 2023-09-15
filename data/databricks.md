@@ -4,17 +4,17 @@ Product Security Engineer  UNIQ https://databricks.com/company/careers/open-posi
 
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6935070002
 
-Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6588775002
-
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854973002
 
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854974002
 
+Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6588775002
+
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6935063002
 
-Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897605002
-
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897603002
+
+Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897605002
 
 Sr. VRP Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6897608002
 
