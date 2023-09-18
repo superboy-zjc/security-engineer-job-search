@@ -84,7 +84,5 @@ Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/
 
 Solution Sales Executive, Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999925082223-solution-sales-executive-security
 
-Senior Security Advisor UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999923261158-senior-security-advisor
-
 Senior Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930478844-senior-information-security-engineer
 
