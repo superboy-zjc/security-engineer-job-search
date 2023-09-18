@@ -1,8 +1,8 @@
+Software Engineer - Security Engineering UNIQ https://jobs.smartrecruiters.com/Square/743999931125393-software-engineer-security-engineering
+
+Software Engineer - Security Engineering UNIQ https://jobs.smartrecruiters.com/Square/743999931124913-software-engineer-security-engineering
+
 Trading & Securities Operations Lead UNIQ https://jobs.smartrecruiters.com/Square/743999927948363-trading-securities-operations-lead
-
-Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999927945123-security-engineer
-
-Security Engineer UNIQ https://jobs.smartrecruiters.com/Square/743999927929168-security-engineer
 
 Sr. Application Security Engineer, Product Security UNIQ https://jobs.smartrecruiters.com/Square/743999924031183-sr-application-security-engineer-product-security
 
