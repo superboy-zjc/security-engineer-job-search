@@ -8,5 +8,3 @@ Security Software Engineer (L5), Security Platforms Engineering UNIQ https://job
 
 Specialist, Security & Intelligence - Production UNIQ https://jobs.lever.co/netflix/ff9e8858-948c-4fb0-921b-284b9439b018
 
-Administrative Assistant, Safety and Security UNIQ https://jobs.lever.co/netflix/7013fbaf-a7f6-46e2-85ae-94ebfed15fef
-
