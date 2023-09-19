@@ -28,6 +28,8 @@ Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/Service
 
 Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
 
+Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931366953-staff-security-researcher-product-security
+
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860642-staff-information-security-engineer
 
 Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851723-sr-product-security-engineer
@@ -69,6 +71,8 @@ Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiter
 Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837813-senior-staff-security-contracts-manager
 
 Security Penetration Test Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926286691-security-penetration-test-engineer
+
+Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931364656-staff-security-researcher-product-security
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860792-staff-information-security-engineer
 
