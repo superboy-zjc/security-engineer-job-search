@@ -1,3 +1,5 @@
+Senior Staff Security Advisor (AMS-Fed) OCISO UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931629588-senior-staff-security-advisor-ams-fed-ociso
+
 Staff Security Penetration Test Engineer | AppSec UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931453443-staff-security-penetration-test-engineer-appsec
 
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931405983-staff-security-researcher-product-security
