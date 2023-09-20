@@ -26,8 +26,6 @@ Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiter
 
 Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837503-senior-staff-security-contracts-manager
 
-Senior Regional Security Manager, EMEA UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999920673468-senior-regional-security-manager-emea
-
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931406623-staff-security-researcher-product-security
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860642-staff-information-security-engineer
