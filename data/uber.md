@@ -4,5 +4,3 @@ Security Manager II, Trusted Identity & Access Management UNIQ https://www.uber.
 
 Senior Security Engineer UNIQ https://www.uber.com/global/en/careers/list/123876/
 
-Sr Software Engineer - PKI UNIQ https://www.uber.com/global/en/careers/list/121027/
-
