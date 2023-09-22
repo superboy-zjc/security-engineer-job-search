@@ -66,8 +66,6 @@ Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/
 
 Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929800928-technical-program-manager-security-automation
 
-Senior Staff Security Contracts Manager UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999926837603-senior-staff-security-contracts-manager
-
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860148-staff-information-security-engineer
 
 Senior Security Governance Analyst |Compliance UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999932003359-senior-security-governance-analyst-compliance
