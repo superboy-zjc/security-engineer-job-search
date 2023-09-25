@@ -6,9 +6,9 @@ Security Engineer, Enterprise Security UNIQ https://boards.greenhouse.io/grammar
 
 Security Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5334749
 
-Software Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5282966
-
 Software Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5225314
+
+Software Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5282966
 
 Software Engineer, Security Foundations UNIQ https://boards.greenhouse.io/grammarly/jobs/5358133
 
