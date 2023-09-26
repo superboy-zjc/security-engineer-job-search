@@ -1,6 +1,6 @@
-Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5382779
-
 Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5322037
+
+Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5382779
 
 Physical Security Specialist UNIQ https://boards.greenhouse.io/boxinc/jobs/5377271
 
