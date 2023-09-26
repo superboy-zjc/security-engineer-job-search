@@ -12,8 +12,6 @@ Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/Servic
 
 Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851533-sr-product-security-engineer
 
-Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342173-technical-program-manager-security-automation
-
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342133-staff-security-software-engineer-python
 
 Senior Security Governance Analyst |Compliance UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999932003724-senior-security-governance-analyst-compliance
@@ -31,8 +29,6 @@ Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/Servic
 Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851103-sr-product-security-engineer
 
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107443-staff-security-software-engineer-python
-
-Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929801463-technical-program-manager-security-automation
 
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931406623-staff-security-researcher-product-security
 
@@ -64,8 +60,6 @@ Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/74
 
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107333-staff-security-software-engineer-python
 
-Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929800928-technical-program-manager-security-automation
-
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860148-staff-information-security-engineer
 
 Senior Security Governance Analyst |Compliance UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999932003359-senior-security-governance-analyst-compliance
@@ -83,8 +77,6 @@ Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/Servic
 Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930850823-sr-product-security-engineer
 
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107493-staff-security-software-engineer-python
-
-Technical Program Manager | Security Automation UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999929801603-technical-program-manager-security-automation
 
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931406773-staff-security-researcher-product-security
 
