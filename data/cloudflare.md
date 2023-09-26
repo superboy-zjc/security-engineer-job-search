@@ -6,9 +6,9 @@ Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728
 
 Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5366970?gh_jid=5366970
 
-Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5384807?gh_jid=5384807
-
 Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5381627?gh_jid=5381627
+
+Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5384807?gh_jid=5384807
 
 Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/5316728?gh_jid=5316728
 
@@ -20,13 +20,13 @@ Security Engineer, Technology Delivery UNIQ https://boards.greenhouse.io/cloudfl
 
 Security Third Party Risk Management Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5358754?gh_jid=5358754
 
+Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
+
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041535?gh_jid=5041535
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041536?gh_jid=5041536
 
 Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041582?gh_jid=5041582
-
-Senior Data Scientist, Web Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5041579?gh_jid=5041579
 
 VP, Product Delivery and Security UNIQ https://boards.greenhouse.io/cloudflare/jobs/5180159?gh_jid=5180159
 
