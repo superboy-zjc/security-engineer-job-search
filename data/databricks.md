@@ -1,10 +1,10 @@
 Privacy Analyst (Legal) UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6857159002
 
+Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6935070002
+
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6854974002
 
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6935063002
-
-Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6935070002
 
 Senior Product Security Engineer UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6588775002
 
@@ -42,7 +42,7 @@ Staff Software Engineer - Security UNIQ https://databricks.com/company/careers/o
 
 Staff Software Engineer - Web Security UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6860229002
 
-Technical Industry Solutions Director - Financial Services, Cybersecurity GTM UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6946216002
+Technical Industry Solutions Director - Cybersecurity Go-To-Market UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6946216002
 
-Technical Industry Solutions Director - Financial Services, Cybersecurity GTM UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6933204002
+Technical Industry Solutions Director - Cybersecurity Go-To-Market UNIQ https://databricks.com/company/careers/open-positions/job?gh_jid=6933204002
 
