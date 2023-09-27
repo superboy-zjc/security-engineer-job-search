@@ -1,3 +1,5 @@
+Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999933372629-senior-manager-public-cloud-security-engineering
+
 Senior Security Governance Analyst |Compliance UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999932003453-senior-security-governance-analyst-compliance
 
 Senior Security Analyst – Global Security Support Center UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999932001683-senior-security-analyst-global-security-support-center
@@ -13,6 +15,8 @@ Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/Servic
 Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851533-sr-product-security-engineer
 
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342133-staff-security-software-engineer-python
+
+Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999933372140-senior-manager-public-cloud-security-engineering
 
 Senior Security Governance Analyst |Compliance UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999932003724-senior-security-governance-analyst-compliance
 
@@ -61,6 +65,8 @@ Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/74
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107333-staff-security-software-engineer-python
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860148-staff-information-security-engineer
+
+Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999933373893-senior-manager-public-cloud-security-engineering
 
 Senior Security Governance Analyst |Compliance UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999932003359-senior-security-governance-analyst-compliance
 
