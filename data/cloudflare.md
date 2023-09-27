@@ -4,11 +4,11 @@ Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728
 
 Network Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/4728089?gh_jid=4728089
 
-Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5381627?gh_jid=5381627
+Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5366970?gh_jid=5366970
 
 Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5384807?gh_jid=5384807
 
-Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5366970?gh_jid=5366970
+Security Compliance Specialist UNIQ https://boards.greenhouse.io/cloudflare/jobs/5381627?gh_jid=5381627
 
 Security Engineer UNIQ https://boards.greenhouse.io/cloudflare/jobs/5365976?gh_jid=5365976
 
