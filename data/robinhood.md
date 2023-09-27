@@ -12,5 +12,7 @@ Senior Security Engineer - Detection and Response UNIQ https://boards.greenhouse
 
 Staff Security Engineer, Detection and Response UNIQ https://boards.greenhouse.io/robinhood/jobs/5328912?t=gh_src=&gh_jid=5328912
 
+Staff Security Software Engineer- Networking UNIQ https://boards.greenhouse.io/robinhood/jobs/5395984?t=gh_src=&gh_jid=5395984
+
 Web Engineer,  Account Security UNIQ https://boards.greenhouse.io/robinhood/jobs/5298254?t=gh_src=&gh_jid=5298254
 
