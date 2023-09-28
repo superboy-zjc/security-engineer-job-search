@@ -8,8 +8,6 @@ Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.c
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860493-staff-information-security-engineer
 
-Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851533-sr-product-security-engineer
-
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342133-staff-security-software-engineer-python
 
 Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999933372140-senior-manager-public-cloud-security-engineering
@@ -22,15 +20,11 @@ Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.c
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930859698-staff-information-security-engineer
 
-Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851103-sr-product-security-engineer
-
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107443-staff-security-software-engineer-python
 
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931406623-staff-security-researcher-product-security
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860642-staff-information-security-engineer
-
-Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851723-sr-product-security-engineer
 
 Senior Endpoint Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930409009-senior-endpoint-security-engineer
 
@@ -48,8 +42,6 @@ Staff Security Penetration Test Engineer | AppSec UNIQ https://jobs.smartrecruit
 
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931406483-staff-security-researcher-product-security
 
-Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930850594-sr-product-security-engineer
-
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107333-staff-security-software-engineer-python
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860148-staff-information-security-engineer
@@ -64,15 +56,11 @@ Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.c
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860398-staff-information-security-engineer
 
-Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930850823-sr-product-security-engineer
-
 Staff Security Software Engineer | Python UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930107493-staff-security-software-engineer-python
 
 Staff Security Researcher | Product Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999931406773-staff-security-researcher-product-security
 
 Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930860792-staff-information-security-engineer
-
-Sr Product Security Engineer UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930851928-sr-product-security-engineer
 
 Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342223-senior-manager-public-cloud-security-engineering
 
