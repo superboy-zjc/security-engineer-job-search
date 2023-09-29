@@ -10,7 +10,7 @@ Security & Compliance Manager (ISMAP) UNIQ https://boards.greenhouse.io/boxinc/j
 
 Security Incident Response Analyst I UNIQ https://boards.greenhouse.io/boxinc/jobs/5349640
 
-Senior Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5317374
-
 Senior Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5395667
+
+Senior Application Security Tooling Engineer UNIQ https://boards.greenhouse.io/boxinc/jobs/5317374
 
