@@ -1,6 +1,6 @@
-Security Engineer, Security Operations UNIQ https://boards.greenhouse.io/cruise/jobs/5317528?gh_jid=5317528
-
 Security Engineer, Security Operations UNIQ https://boards.greenhouse.io/cruise/jobs/5321503?gh_jid=5321503
+
+Security Engineer, Security Operations UNIQ https://boards.greenhouse.io/cruise/jobs/5317528?gh_jid=5317528
 
 Senior Security Engineer II, Trusted Device Access UNIQ https://boards.greenhouse.io/cruise/jobs/5281982?gh_jid=5281982
 
