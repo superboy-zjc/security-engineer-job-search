@@ -22,5 +22,7 @@ Sr. Staff Application Security Engineer UNIQ https://jobs.lever.co/verkada/da697
 
 Sr. Staff Cloud Security Engineer UNIQ https://jobs.lever.co/verkada/667842ea-8d8f-41e5-8ef2-933722cdad28
 
+Sr. Staff Software Engineer - Security and Privacy UNIQ https://jobs.lever.co/verkada/706158d2-0e80-45f9-a328-a851e00e02f5
+
 Staff Embedded Linux Security Engineer UNIQ https://jobs.lever.co/verkada/b86ed146-6646-4f13-a61b-dc5433e11af9
 
