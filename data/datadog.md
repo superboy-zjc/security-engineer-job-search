@@ -1,6 +1,6 @@
-Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
-
 Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080553/?gh_jid=5080553
+
+Engineering Manager I, Core Security Response UNIQ https://careers.datadoghq.com/detail/5080552/?gh_jid=5080552
 
 Engineering Manager II - Cloud Security UNIQ https://careers.datadoghq.com/detail/5112227/?gh_jid=5112227
 
@@ -18,9 +18,9 @@ Senior Product Designer, Security UNIQ https://careers.datadoghq.com/detail/5296
 
 Senior Security Engineer - Core Security Response UNIQ https://careers.datadoghq.com/detail/5335838/?gh_jid=5335838
 
-Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
-
 Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/4599154/?gh_jid=4599154
+
+Senior Software Engineer - Cloud Security Platform UNIQ https://careers.datadoghq.com/detail/5267416/?gh_jid=5267416
 
 Senior Software Engineer (Frontend) - Security Platform UNIQ https://careers.datadoghq.com/detail/5080102/?gh_jid=5080102
 
