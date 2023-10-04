@@ -4,11 +4,13 @@ Product Marketing Manager, Trust and Security UNIQ https://boards.greenhouse.io/
 
 Security Engineer, Enterprise Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5361712
 
+Security Engineer, Enterprise Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5334750
+
 Security Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5334749
 
-Software Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5225314
-
 Software Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5282966
+
+Software Engineer, Product Security UNIQ https://boards.greenhouse.io/grammarly/jobs/5225314
 
 Software Engineer, Security Foundations UNIQ https://boards.greenhouse.io/grammarly/jobs/5358133
 
