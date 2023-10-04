@@ -1,3 +1,5 @@
+Staff Security Engineer, Corporate Security. UNIQ https://www.pinterestcareers.com/job/19231815/staff-security-engineer-corporate-security-remote/
+
 Sr. Software Engineer, Infrastructure Security. UNIQ https://www.pinterestcareers.com/job/19040648/sr-software-engineer-infrastructure-security-remote/
 
 Senior Data Engineer. UNIQ https://www.pinterestcareers.com/job/18951873/senior-data-engineer-remote/
