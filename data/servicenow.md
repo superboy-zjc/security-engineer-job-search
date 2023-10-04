@@ -64,6 +64,8 @@ Staff Information Security Engineer UNIQ https://jobs.smartrecruiters.com/Servic
 
 Senior Manager Public Cloud Security Engineering UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999930342223-senior-manager-public-cloud-security-engineering
 
+Assoc. Information Security Analyst Intern - Summer 2024 UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999934831968-assoc-information-security-analyst-intern-summer-2024
+
 Staff Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858193-staff-software-engineer-platform-security
 
 Sr Software Engineer-Platform Security UNIQ https://jobs.smartrecruiters.com/ServiceNow/743999924858153-sr-software-engineer-platform-security
